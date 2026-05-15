@@ -16,9 +16,9 @@ Thư mục: assets/fooder-almanac-content/[food | drink | ingredient]
 [x] fooderai_bunchaHaNoi.png         — Bún chả Hà Nội
 [x] fooderai_nemluinuong.png         — Nem lụi Huế
 [x] fooderai_goicuon.png             — Gỏi cuốn tôm thịt
-[ ] fooderai_bundaumamtom.png        — Bún đậu mắm tôm
-[ ] fooderai_chacalavong.png         — Chả cá Lã Vọng
-[ ] fooderai_banhkhot.png            — Bánh khọt Vũng Tàu
+[x] fooderai_bundaumamtom.png        — Bún đậu mắm tôm
+[x] fooderai_chacalavong.png         — Chả cá Lã Vọng
+[x] fooderai_banhkhot.png            — Bánh khọt Vũng Tàu
 [ ] fooderai_bolalot.png             — Bò lá lốt
 [ ] fooderai_banhbeo.png             — Bánh bèo Huế
 [ ] fooderai_banhcan.png             — Bánh căn Phan Rang
@@ -58,10 +58,10 @@ Thư mục: assets/fooder-almanac-content/[food | drink | ingredient]
 
 [ INGREDIENT / ingredient/ ] — 50 món
 ====================================================================
-[ ] fooderai_thitheoachi.png         — Thịt heo ba chỉ
-[ ] fooderai_thitbothan.png          — Thịt bò thăn
-[ ] fooderai_ucga.png                — Ức gà
-[ ] fooderai_catraphile.png          — Cá tra phi lê
+[x] fooderai_thitheoachi.png         — Thịt heo ba chỉ
+[x] fooderai_thitbothan.png          — Thịt bò thăn
+[x] fooderai_ucga.png                — Ức gà
+[x] fooderai_catraphile.png          — Cá tra phi lê
 [ ] fooderai_tomsu.png               — Tôm sú
 [ ] fooderai_trungga.png             — Trứng gà
 [ ] fooderai_cahoi.png               — Cá hồi
