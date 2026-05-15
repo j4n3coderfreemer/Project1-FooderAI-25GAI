@@ -1,0 +1,161 @@
+﻿id,name,category,sub_type,calories,calorie_unit,difficulty,origin,image_url,description,created_at
+1,Phở bò tái chín,food,specialty,450,per_serving,basic,vietnam,NULL,NULL,36:59.4
+2,Bún bò Huế,food,specialty,500,per_serving,basic,vietnam,NULL,NULL,36:59.4
+3,Cao lầu Hội An,food,specialty,480,per_serving,basic,vietnam,NULL,NULL,36:59.4
+4,Mì Quảng tôm thịt,food,specialty,520,per_serving,basic,vietnam,NULL,NULL,36:59.4
+5,Bánh mì thịt nguội,food,specialty,380,per_serving,basic,vietnam,NULL,NULL,36:59.4
+6,Cơm tấm sườn bì chả,food,specialty,650,per_serving,basic,vietnam,NULL,NULL,36:59.4
+7,Bánh xèo miền Trung,food,specialty,430,per_serving,basic,vietnam,NULL,NULL,36:59.4
+8,Bánh cuốn Hà Nội,food,specialty,290,per_serving,basic,vietnam,NULL,NULL,36:59.4
+9,Bún chả Hà Nội,food,specialty,470,per_serving,basic,vietnam,NULL,NULL,36:59.4
+10,Gỏi cuốn tôm thịt,food,specialty,180,per_serving,basic,vietnam,NULL,NULL,36:59.4
+11,Bún đậu mắm tôm,food,specialty,560,per_serving,basic,vietnam,NULL,NULL,36:59.4
+12,Chả cá Lã Vọng,food,specialty,390,per_serving,advanced,vietnam,NULL,NULL,36:59.4
+13,Bánh khọt Vũng Tàu,food,specialty,320,per_serving,basic,vietnam,NULL,NULL,36:59.4
+14,Bò lá lốt,food,specialty,340,per_serving,basic,vietnam,NULL,NULL,36:59.4
+15,Bánh bèo Huế,food,specialty,210,per_serving,basic,vietnam,NULL,NULL,36:59.4
+16,Nem lụi Huế,food,specialty,360,per_serving,basic,vietnam,NULL,NULL,36:59.4
+17,Bánh căn Phan Rang,food,specialty,280,per_serving,basic,vietnam,NULL,NULL,36:59.4
+18,Bún riêu cua,food,specialty,420,per_serving,basic,vietnam,NULL,NULL,36:59.4
+19,Hủ tiếu Nam Vang,food,specialty,490,per_serving,basic,vietnam,NULL,NULL,36:59.4
+20,Cháo lòng,food,specialty,310,per_serving,basic,vietnam,NULL,NULL,36:59.4
+21,Bánh tráng trộn Sài Gòn,food,specialty,350,per_serving,basic,vietnam,NULL,NULL,36:59.4
+22,Cơm hến Huế,food,specialty,370,per_serving,advanced,vietnam,NULL,NULL,36:59.4
+23,Bún mắm miền Tây,food,specialty,510,per_serving,advanced,vietnam,NULL,NULL,36:59.4
+24,Lẩu cá kèo,food,specialty,440,per_serving,advanced,vietnam,NULL,NULL,36:59.4
+25,Bánh đúc nộm,food,specialty,240,per_serving,basic,vietnam,NULL,NULL,36:59.4
+26,Cơm trắng canh chua cá kho,food,everyday,580,per_serving,basic,vietnam,NULL,NULL,36:59.4
+27,Thịt kho tàu heo trứng,food,everyday,520,per_serving,basic,vietnam,NULL,NULL,36:59.4
+28,Rau muống xào tỏi,food,everyday,120,per_serving,basic,vietnam,NULL,NULL,36:59.4
+29,Trứng chiên hành,food,everyday,180,per_serving,basic,vietnam,NULL,NULL,36:59.4
+30,Canh khổ qua nhồi thịt,food,everyday,220,per_serving,basic,vietnam,NULL,NULL,36:59.4
+31,Cá kho tộ,food,everyday,310,per_serving,basic,vietnam,NULL,NULL,36:59.4
+32,Đậu phụ sốt cà chua,food,everyday,160,per_serving,basic,vietnam,NULL,NULL,36:59.4
+33,Súp gà nấm,food,everyday,230,per_serving,basic,vietnam,NULL,NULL,36:59.4
+34,Cháo trắng trứng muối,food,everyday,270,per_serving,basic,vietnam,NULL,NULL,36:59.4
+35,Xôi gà xé,food,everyday,490,per_serving,basic,vietnam,NULL,NULL,36:59.4
+36,Cơm rang dương châu,food,everyday,520,per_serving,basic,vietnam,NULL,NULL,36:59.4
+37,Sườn xào chua ngọt,food,everyday,430,per_serving,basic,vietnam,NULL,NULL,36:59.4
+38,Gà nướng muối ớt,food,everyday,370,per_serving,basic,vietnam,NULL,NULL,36:59.4
+39,Hột vịt lộn rau răm,food,everyday,180,per_serving,basic,vietnam,NULL,NULL,36:59.4
+40,Canh bí đỏ nấu tôm,food,everyday,170,per_serving,basic,vietnam,NULL,NULL,36:59.4
+41,Mì tôm Hảo Hảo xào khô,food,noodle,380,per_serving,basic,vietnam,NULL,NULL,36:59.4
+42,Mì tôm nấu trứng hành,food,noodle,320,per_serving,basic,vietnam,NULL,NULL,36:59.4
+43,Mì tôm lẩu Thái,food,noodle,410,per_serving,basic,vietnam,NULL,NULL,36:59.4
+44,Mì spaghetti bò bằm cà chua,food,noodle,520,per_serving,advanced,foreign,NULL,NULL,36:59.4
+45,Mì spaghetti carbonara,food,noodle,580,per_serving,advanced,foreign,NULL,NULL,36:59.4
+46,Mì udon xào bò,food,noodle,490,per_serving,advanced,foreign,NULL,NULL,36:59.4
+47,Mì ramen trứng onsen,food,noodle,480,per_serving,advanced,foreign,NULL,NULL,36:59.4
+48,Mì trứng xào rau củ,food,noodle,390,per_serving,basic,vietnam,NULL,NULL,36:59.4
+49,Bún gạo xào hải sản,food,noodle,420,per_serving,basic,vietnam,NULL,NULL,36:59.4
+50,Mì Ý sốt kem nấm,food,noodle,560,per_serving,advanced,foreign,NULL,NULL,36:59.4
+51,Thịt heo ba chỉ,ingredient,protein,518,per_100g,basic,vietnam,NULL,NULL,36:59.4
+52,Thịt bò thăn,ingredient,protein,250,per_100g,basic,vietnam,NULL,NULL,36:59.4
+53,Ức gà,ingredient,protein,165,per_100g,basic,vietnam,NULL,NULL,36:59.4
+54,Cá tra phi lê,ingredient,protein,148,per_100g,basic,vietnam,NULL,NULL,36:59.4
+55,Tôm sú,ingredient,protein,99,per_100g,basic,vietnam,NULL,NULL,36:59.4
+56,Trứng gà,ingredient,protein,155,per_100g,basic,vietnam,NULL,NULL,36:59.4
+57,Cá hồi,ingredient,protein,208,per_100g,advanced,foreign,NULL,NULL,36:59.4
+58,Mực ống,ingredient,protein,92,per_100g,basic,vietnam,NULL,NULL,36:59.4
+59,Thịt vịt,ingredient,protein,337,per_100g,basic,vietnam,NULL,NULL,36:59.4
+60,Cua đồng,ingredient,protein,79,per_100g,basic,vietnam,NULL,NULL,36:59.4
+61,Gạo tẻ sống,ingredient,starch,360,per_100g,basic,vietnam,NULL,NULL,36:59.4
+62,Khoai lang,ingredient,starch,86,per_100g,basic,vietnam,NULL,NULL,36:59.4
+63,Khoai tây,ingredient,starch,77,per_100g,basic,vietnam,NULL,NULL,36:59.4
+64,Bắp ngô,ingredient,starch,96,per_100g,basic,vietnam,NULL,NULL,36:59.4
+65,Yến mạch,ingredient,starch,389,per_100g,advanced,foreign,NULL,NULL,36:59.4
+66,Quinoa,ingredient,starch,368,per_100g,advanced,foreign,NULL,NULL,36:59.4
+67,Đậu xanh,ingredient,starch,347,per_100g,basic,vietnam,NULL,NULL,36:59.4
+68,Hạnh nhân,ingredient,starch,579,per_100g,advanced,foreign,NULL,NULL,36:59.4
+69,Rau muống,ingredient,vegetable,19,per_100g,basic,vietnam,NULL,NULL,36:59.5
+70,Bắp cải,ingredient,vegetable,25,per_100g,basic,vietnam,NULL,NULL,36:59.5
+71,Cà chua,ingredient,vegetable,18,per_100g,basic,vietnam,NULL,NULL,36:59.5
+72,Cà rốt,ingredient,vegetable,41,per_100g,basic,vietnam,NULL,NULL,36:59.5
+73,Hành tây,ingredient,vegetable,40,per_100g,basic,vietnam,NULL,NULL,36:59.5
+74,Tỏi,ingredient,vegetable,149,per_100g,basic,vietnam,NULL,NULL,36:59.5
+75,Gừng,ingredient,vegetable,80,per_100g,basic,vietnam,NULL,NULL,36:59.5
+76,Sả,ingredient,vegetable,99,per_100g,basic,vietnam,NULL,NULL,36:59.5
+77,Ớt sừng,ingredient,vegetable,40,per_100g,basic,vietnam,NULL,NULL,36:59.5
+78,Nấm rơm,ingredient,vegetable,22,per_100g,basic,vietnam,NULL,NULL,36:59.5
+79,Khổ qua mướp đắng,ingredient,vegetable,17,per_100g,basic,vietnam,NULL,NULL,36:59.5
+80,Bí đỏ,ingredient,vegetable,26,per_100g,basic,vietnam,NULL,NULL,36:59.5
+81,Đậu bắp,ingredient,vegetable,33,per_100g,basic,vietnam,NULL,NULL,36:59.5
+82,Rau húng quế,ingredient,vegetable,23,per_100g,basic,vietnam,NULL,NULL,36:59.5
+83,Cải thìa,ingredient,vegetable,13,per_100g,basic,vietnam,NULL,NULL,36:59.5
+84,Giá đỗ,ingredient,vegetable,30,per_100g,basic,vietnam,NULL,NULL,36:59.5
+85,Bông cải xanh,ingredient,vegetable,34,per_100g,advanced,foreign,NULL,NULL,36:59.5
+86,Cải bó xôi Spinach,ingredient,vegetable,23,per_100g,advanced,foreign,NULL,NULL,36:59.5
+87,Bơ Avocado,ingredient,vegetable,160,per_100g,advanced,foreign,NULL,NULL,36:59.5
+88,Atisô,ingredient,vegetable,47,per_100g,advanced,foreign,NULL,NULL,36:59.5
+89,Cần tây,ingredient,vegetable,16,per_100g,advanced,foreign,NULL,NULL,36:59.5
+90,Dưa leo,ingredient,vegetable,15,per_100g,basic,vietnam,NULL,NULL,36:59.5
+91,Ớt chuông,ingredient,vegetable,31,per_100g,advanced,foreign,NULL,NULL,36:59.5
+92,Nấm đông cô,ingredient,vegetable,34,per_100g,basic,vietnam,NULL,NULL,36:59.5
+93,Chuối tiêu,ingredient,fruit,89,per_100g,basic,vietnam,NULL,NULL,36:59.5
+94,Xoài chín,ingredient,fruit,60,per_100g,basic,vietnam,NULL,NULL,36:59.5
+95,Thanh long đỏ,ingredient,fruit,60,per_100g,basic,vietnam,NULL,NULL,36:59.5
+96,Dừa tươi,ingredient,fruit,354,per_100g,basic,vietnam,NULL,NULL,36:59.5
+97,Dâu tây,ingredient,fruit,32,per_100g,advanced,foreign,NULL,NULL,36:59.5
+98,Táo xanh,ingredient,fruit,52,per_100g,basic,foreign,NULL,NULL,36:59.5
+99,Việt quất,ingredient,fruit,57,per_100g,advanced,foreign,NULL,NULL,36:59.5
+100,Chanh vàng,ingredient,fruit,29,per_100g,basic,vietnam,NULL,NULL,36:59.5
+101,Cà phê đen không đường,drink,coffee,5,per_serving,basic,vietnam,NULL,NULL,36:59.5
+102,Cà phê sữa đá,drink,coffee,180,per_serving,basic,vietnam,NULL,NULL,36:59.5
+103,Espresso,drink,coffee,10,per_serving,basic,foreign,NULL,NULL,36:59.5
+104,Americano,drink,coffee,15,per_serving,basic,foreign,NULL,NULL,36:59.5
+105,Cappuccino,drink,coffee,120,per_serving,basic,foreign,NULL,NULL,36:59.5
+106,Latte,drink,coffee,190,per_serving,basic,foreign,NULL,NULL,36:59.5
+107,Cold brew,drink,coffee,20,per_serving,advanced,foreign,NULL,NULL,36:59.5
+108,Cà phê trứng Hà Nội,drink,coffee,220,per_serving,advanced,vietnam,NULL,NULL,36:59.5
+109,Bạc xỉu,drink,coffee,160,per_serving,basic,vietnam,NULL,NULL,36:59.5
+110,Cà phê dừa,drink,coffee,210,per_serving,advanced,vietnam,NULL,NULL,36:59.5
+111,Mocha,drink,coffee,250,per_serving,advanced,foreign,NULL,NULL,36:59.5
+112,Macchiato,drink,coffee,130,per_serving,advanced,foreign,NULL,NULL,36:59.5
+113,Trà đá không đường,drink,tea,0,per_serving,basic,vietnam,NULL,NULL,36:59.5
+114,Trà sữa trân châu,drink,tea,350,per_serving,basic,foreign,NULL,NULL,36:59.5
+115,Trà xanh Matcha latte,drink,tea,240,per_serving,advanced,foreign,NULL,NULL,36:59.5
+116,Hồng trà sữa,drink,tea,280,per_serving,basic,foreign,NULL,NULL,36:59.5
+117,Trà atisô đá,drink,tea,10,per_serving,basic,vietnam,NULL,NULL,36:59.5
+118,Trà bí đao,drink,tea,60,per_serving,basic,vietnam,NULL,NULL,36:59.5
+119,Trà hoa cúc,drink,tea,5,per_serving,basic,vietnam,NULL,NULL,36:59.5
+120,Trà gừng mật ong,drink,tea,60,per_serving,basic,vietnam,NULL,NULL,36:59.5
+121,Trà ô long đá,drink,tea,2,per_serving,basic,foreign,NULL,NULL,36:59.5
+122,Trà đào cam sả,drink,tea,180,per_serving,basic,vietnam,NULL,NULL,36:59.5
+123,Kombucha,drink,tea,30,per_serving,advanced,foreign,NULL,NULL,36:59.5
+124,Trà lài đá,drink,tea,5,per_serving,basic,vietnam,NULL,NULL,36:59.5
+125,Boba matcha,drink,tea,310,per_serving,advanced,foreign,NULL,NULL,36:59.5
+126,Trà sữa taro,drink,tea,320,per_serving,advanced,foreign,NULL,NULL,36:59.5
+127,Nước ép cam tươi,drink,juice,110,per_serving,basic,vietnam,NULL,NULL,36:59.5
+128,Nước ép dưa hấu,drink,juice,80,per_serving,basic,vietnam,NULL,NULL,36:59.5
+129,Sinh tố bơ sữa,drink,juice,320,per_serving,basic,vietnam,NULL,NULL,36:59.5
+130,Sinh tố xoài,drink,juice,180,per_serving,basic,vietnam,NULL,NULL,36:59.5
+131,Sinh tố dâu tây,drink,juice,160,per_serving,basic,vietnam,NULL,NULL,36:59.5
+132,Nước ép cà rốt táo,drink,juice,120,per_serving,basic,vietnam,NULL,NULL,36:59.5
+133,Nước ép cần tây,drink,juice,40,per_serving,advanced,foreign,NULL,NULL,36:59.5
+134,Nước ép dứa,drink,juice,130,per_serving,basic,vietnam,NULL,NULL,36:59.5
+135,Nước ép lựu,drink,juice,150,per_serving,advanced,foreign,NULL,NULL,36:59.5
+136,Sinh tố việt quất,drink,juice,190,per_serving,advanced,foreign,NULL,NULL,36:59.5
+137,Nước ép táo xanh,drink,juice,110,per_serving,basic,foreign,NULL,NULL,36:59.5
+138,Sinh tố chuối sữa,drink,juice,210,per_serving,basic,vietnam,NULL,NULL,36:59.5
+139,Nước ép dưa leo,drink,juice,30,per_serving,advanced,vietnam,NULL,NULL,36:59.5
+140,Sinh tố thanh long,drink,juice,140,per_serving,basic,vietnam,NULL,NULL,36:59.5
+141,Nước ép gừng chanh,drink,juice,50,per_serving,advanced,vietnam,NULL,NULL,36:59.5
+142,Smoothie rau củ,drink,juice,280,per_serving,advanced,foreign,NULL,NULL,36:59.5
+143,Nước ép cải xanh,drink,juice,35,per_serving,advanced,foreign,NULL,NULL,36:59.5
+144,Sinh tố sữa chua dâu,drink,juice,230,per_serving,basic,vietnam,NULL,NULL,36:59.5
+145,Nước ép lê gừng,drink,juice,100,per_serving,advanced,foreign,NULL,NULL,36:59.5
+146,Nước detox chanh dưa leo,drink,juice,20,per_serving,advanced,foreign,NULL,NULL,36:59.5
+147,Nước mía,drink,traditional,180,per_serving,basic,vietnam,NULL,NULL,36:59.5
+148,Nước dừa tươi,drink,traditional,46,per_serving,basic,vietnam,NULL,NULL,36:59.5
+149,Rau má đá,drink,traditional,60,per_serving,basic,vietnam,NULL,NULL,36:59.5
+150,Nước chanh muối,drink,traditional,30,per_serving,basic,vietnam,NULL,NULL,36:59.5
+151,Sâm lạnh,drink,traditional,120,per_serving,basic,vietnam,NULL,NULL,36:59.5
+152,Soda sữa muối,drink,traditional,140,per_serving,advanced,vietnam,NULL,NULL,36:59.5
+153,Chè đậu xanh đá,drink,traditional,200,per_serving,basic,vietnam,NULL,NULL,36:59.5
+154,Lemonade bạc hà,drink,traditional,90,per_serving,basic,foreign,NULL,NULL,36:59.5
+155,Mojito không cồn,drink,traditional,80,per_serving,advanced,foreign,NULL,NULL,36:59.5
+156,Soda vải,drink,traditional,130,per_serving,advanced,vietnam,NULL,NULL,36:59.5
+157,Sữa hạnh nhân,drink,traditional,40,per_serving,advanced,foreign,NULL,NULL,36:59.5
+158,Sữa yến mạch,drink,traditional,60,per_serving,advanced,foreign,NULL,NULL,36:59.5
+159,Hồng trà đào,drink,traditional,160,per_serving,advanced,vietnam,NULL,NULL,36:59.5
+160,Nước gừng mật ong ấm,drink,traditional,70,per_serving,basic,vietnam,NULL,NULL,36:59.5
