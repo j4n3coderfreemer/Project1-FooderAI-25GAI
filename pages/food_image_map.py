@@ -415,6 +415,11 @@ FOOD_DATA = {
           ("Bún chả Hà Nội", 350, "Bún chả đặc trưng Hà Nội: chả viên và chả miếng nướng thơm, chấm nước mắm pha đúng vị...", ["Protein", "Tinh bột", "Chất xơ", "Vitamin C", "Sắt"], "fooderai_bunchaHaNoi.png"),
           ("Mì Quảng tôm thịt", 290, "Sợi mì Quảng vàng mượt, nước dùng sệt đậm đà, ăn kèm bánh tráng nướng giòn tan...", ["Tinh bột", "Protein", "Chất xơ", "Canxi", "Sắt"], "fooderai_miquangtomthit.png"),
           ("Nem lụi Huế", 280, "Nem lụi xào lăn thơm nức mũi, cuốn với bánh tráng và rau sống chấm mắm nêm...", ["Protein", "Chất béo", "Vitamin C", "Chất xơ", "Sắt"], "fooderai_nemluinuong.png"),
+          ("Gỏi cuốn tôm thịt", 150, "Gỏi cuốn tươi ngon với tôm, thịt heo bộc lộ vị ngọt tự nhiên, cuộn kèm rau sống, bún tươi và chấm nước tương đậu phộng đậm đà.", ["Protein", "Carbohydrate", "Chất béo", "Vitamin A", "Chất xơ", "Canxi"], "fooderai_goicuon.png"),
+          ("Bún đậu mắm tôm", 700, "Mẹt bún đậu tá lả đầy đủ hương vị với đậu hũ chiên giòn ngoài mềm trong, chả cốm nồng nàn, dồi sụn, thịt luộc ăn kèm rau sống và mắm tôm đánh bông.", ["Protein", "Tinh bột", "Chất béo", "Canxi", "Vitamin A", "Chất xơ"], "fooderai_bundaumamtom.png"),
+          ("Chả cá Lã Vọng", 450, "Đặc sản đất Hà thành với cá lăng ướp nghệ nướng vàng, áp chảo cùng hành lá và thì là thơm nức mọc, ăn kèm lạc rang, bún tươi và mắm tôm pha chanh ớt.", ["Protein", "Omega-3", "Chất béo", "Tinh bột", "Vitamin C", "Sắt"], "fooderai_chacalavong.png"),
+          ("Bánh khọt Vũng Tàu", 460, "Đặc sản biển Vũng Tàu với lớp vỏ bột gạo giòn rụm béo vị cốt dừa, nhân tôm tươi, ăn kèm đu đủ bào, rau sống và nước mắm chua ngọt.", ["Tinh bột", "Protein", "Chất béo", "Canxi", "Chất xơ", "Kali"], "fooderai_banhkhot.png"),
+
      ],
      # --- Tab 2: Thực Phẩm ---
      "ingredient": [
@@ -427,7 +432,15 @@ FOOD_DATA = {
           ("Gạo tẻ sống", 365, "Gạo trắng là nguồn tinh bột chính của người Việt, cung cấp năng lượng dồi dào...", ["Tinh bột", "Protein", "Vitamin B1", "Kẽm", "Magie"], "fooderai_gaote.png"),
           ("Khoai lang", 86, "Khoai lang vàng giàu beta-carotene, chất xơ và vitamin C, thấp calo...", ["Beta-carotene", "Chất xơ", "Vitamin C", "Kali", "Mangan"], "fooderai_khoailang.png"),
           ("Khoai tây", 77, "Khoai tây nguồn kali và vitamin B6 tốt, tinh bột dễ tiêu...", ["Tinh bột", "Kali", "Vitamin B6", "Vitamin C", "Chất xơ"], "fooderai_khoaitay.png"),
-          ("Bắp ngô", 96, "Bắp ngô cung cấp tinh bột, chất xơ, và các vitamin nhóm B...", ["Tinh bột", "Chất xơ", "Vitamin B", "Magie", "Kali"], "fooderai_bapngo.png"),
+          ("Bắp ngô", 96, "Bắp ngô cung cấp tinh bột, chất xơ, và các vitamin nhóm B...", ["Tinh bột", "Chất xơ", "Vitamin B", "Magie", "Kali"], "fooderai_bapngo.png"),\
+          ("Thịt heo ba chỉ", 260, "Thịt ba chỉ tươi ngon có lớp nạc mỡ đan xen đều đặn, là nguyên liệu giàu đạm cho các món kho, luộc hoặc nướng.", ["Protein", "Chất béo", "Vitamin B12", "Kẽm", "Sắt", "Phốt pho"], "fooderai_thitheobachi.png"),
+          ("Thịt bò thăn", 142, "Thịt thăn bò tươi sống rất nạc và mềm, cung cấp nguồn đạm chất lượng cho món xào, áp chảo hoặc bít tết.", ["Protein", "Sắt", "Kẽm", "Kali", "Vitamin B6", "Vitamin B12"], "fooderai_thitbothan.png"),
+          ("Ức gà", 120, "Ức gà tươi sống đã lọc da xương, cung cấp đạm dồi dào ít béo cho chế độ ăn kiêng, tập cơ.", ["Protein", "Vitamin B6", "Phốt pho", "Selenium", "Kali", "Kẽm"], "fooderai_ucga.png"),
+          ("Cá tra phi lê", 95, "Miếng cá tra phi lê tươi ngon mềm mại, giàu đạm và axit béo omega-3 có lợi cho hệ tim mạch người dùng.", ["Protein", "Omega-3", "Vitamin B12", "Natri", "Kali", "Phốt pho"], "fooderai_catraphile.png"),
+          ("Tôm sú", 95, "Tôm sú tươi sống với sọc vằn đặc trưng, thịt săn chắc ngọt đậm, cung cấp lượng đạm cao và canxi bổ dưỡng cho mọi lứa tuổi.", ["Protein", "Canxi", "Vitamin B12", "Sắt", "Kali", "Kẽm"], "fooderai_tomsu.png"),
+
+
+
      ],
      # --- Tab 3: Thức Uống ---
      "drink": [
@@ -437,6 +450,9 @@ FOOD_DATA = {
           ("Cà phê dừa", 150, "Cà phê kết hợp nước cốt dừa béo ngậy — đặc sản nổi tiếng Hội An và Đà Nẵng...", ["Caffeine", "Chất béo", "Canxi", "Magie", "Kali"], "fooderai_caphedua.png"),
           ("Nước ép dưa hấu", 30, "Nước ép dưa hấu mát lạnh, giải nhiệt tuyệt vời với lycopene và vitamin C...", ["Lycopene", "Vitamin C", "Kali", "Nước", "Đường tự nhiên"], "fooderai_nuocepduahau.png"),
           ("Sinh tố chuối sữa", 180, "Sinh tố chuối sữa béo ngậy, giàu kali và năng lượng, lý tưởng sau tập luyện...", ["Kali", "Canxi", "Protein", "Vitamin B6", "Magie"], "fooderai_sinhtochuoisua.png"),
+          ("Cà phê Espresso", 5, "Tách Espresso nguyên chất đậm đặc với lớp crema vàng óng, cung cấp hàm lượng caffeine mạnh mẽ giúp tỉnh táo và kích thích sự tập trung.", ["Caffeine", "Kali", "Magie", "Phốt pho", "Chất chống oxy hóa"], "fooderai_espresso.png"),
+          ("Cà phê Americano", 15, "Ly Americano thanh nhẹ kết hợp tinh tế giữa espresso và nước nóng, cung cấp caffeine tự nhiên hỗ trợ tăng trao đổi chất, giữ dáng hiệu quả.", ["Caffeine", "Kali", "Magie", "Phốt pho", "Natri", "Chất chống oxy hóa"], "fooderai_americano.png"),
+          ("Cà phê Cappuccino", 110, "Tách Cappuccino chuẩn Ý hòa quyện hoàn hảo giữa espresso đậm đà, sữa tươi nóng và lớp bọt mịn màng tạo nên hương vị béo ngậy tự nhiên.", ["Canxi", "Protein", "Carbohydrate", "Chất béo", "Caffeine", "Chất chống oxy hóa"], "fooderai_cappuccino.png"),
      ],
 }
 
