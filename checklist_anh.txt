@@ -1,0 +1,181 @@
+FOODER AI — CHECKLIST ẢNH 160 MÓN
+Cập nhật: thêm ảnh xong thì đổi [ ] → [x]
+Thư mục: assets/fooder-almanac-content/[food | drink | ingredient]
+====================================================================
+
+[ FOOD / food/ ] — 50 món
+====================================================================
+[x] fooderai_phobotaichin.png        — Phở bò tái chín
+[x] fooderai_bunboHue.png            — Bún bò Huế
+[x] fooderai_caolauhoian.png         — Cao lầu Hội An
+[x] fooderai_miquangtomthit.png      — Mì Quảng tôm thịt
+[x] fooderai_banhmithitnguoi.png     — Bánh mì thịt nguội
+[x] fooderai_comtamsuonbicha.png     — Cơm tấm sườn bì chả
+[x] fooderai_banhxeo.png             — Bánh xèo miền Trung
+[x] fooderai_banhcuon.png            — Bánh cuốn Hà Nội
+[x] fooderai_bunchaHaNoi.png         — Bún chả Hà Nội
+[x] fooderai_nemluinuong.png         — Nem lụi Huế
+[x] fooderai_goicuon.png             — Gỏi cuốn tôm thịt
+[ ] fooderai_bundaumamtom.png        — Bún đậu mắm tôm
+[ ] fooderai_chacalavong.png         — Chả cá Lã Vọng
+[ ] fooderai_banhkhot.png            — Bánh khọt Vũng Tàu
+[ ] fooderai_bolalot.png             — Bò lá lốt
+[ ] fooderai_banhbeo.png             — Bánh bèo Huế
+[ ] fooderai_banhcan.png             — Bánh căn Phan Rang
+[ ] fooderai_bunrieu.png             — Bún riêu cua
+[ ] fooderai_hutieu.png              — Hủ tiếu Nam Vang
+[ ] fooderai_chaolong.png            — Cháo lòng
+[ ] fooderai_banhtrangtron.png       — Bánh tráng trộn Sài Gòn
+[ ] fooderai_comhen.png              — Cơm hến Huế
+[ ] fooderai_bunmam.png              — Bún mắm miền Tây
+[ ] fooderai_laucakeo.png            — Lẩu cá kèo
+[ ] fooderai_banhduc.png             — Bánh đúc nộm
+[ ] fooderai_comtrangcanhchua.png    — Cơm trắng canh chua cá kho
+[ ] fooderai_thitkhotau.png          — Thịt kho tàu heo trứng
+[ ] fooderai_raumuong_mon.png        — Rau muống xào tỏi
+[ ] fooderai_trungchien.png          — Trứng chiên hành
+[ ] fooderai_canhkhoqua.png          — Canh khổ qua nhồi thịt
+[ ] fooderai_cakhoto.png             — Cá kho tộ
+[ ] fooderai_dauphusotcachua.png     — Đậu phụ sốt cà chua
+[ ] fooderai_supga.png               — Súp gà nấm
+[ ] fooderai_chaotrang.png           — Cháo trắng trứng muối
+[ ] fooderai_xoiga.png               — Xôi gà xé
+[ ] fooderai_comrang.png             — Cơm rang dương châu
+[ ] fooderai_suonxao.png             — Sườn xào chua ngọt
+[ ] fooderai_ganuong.png             — Gà nướng muối ớt
+[ ] fooderai_hotviton.png            — Hột vịt lộn rau răm
+[ ] fooderai_canhbido.png            — Canh bí đỏ nấu tôm
+[ ] fooderai_mitomhaohao.png         — Mì tôm Hảo Hảo xào khô
+[ ] fooderai_mitomnautrung.png       — Mì tôm nấu trứng hành
+[ ] fooderai_mitomlauthai.png        — Mì tôm lẩu Thái
+[ ] fooderai_spaghettibobam.png      — Mì spaghetti bò bằm cà chua
+[ ] fooderai_carbonara.png           — Mì spaghetti carbonara
+[ ] fooderai_udonxaobo.png           — Mì udon xào bò
+[ ] fooderai_ramenonsen.png          — Mì ramen trứng onsen
+[ ] fooderai_mitrungxao.png          — Mì trứng xào rau củ
+[ ] fooderai_bungaoxaohasan.png      — Bún gạo xào hải sản
+[ ] fooderai_miysotkemnam.png        — Mì Ý sốt kem nấm
+
+[ INGREDIENT / ingredient/ ] — 50 món
+====================================================================
+[ ] fooderai_thitheoachi.png         — Thịt heo ba chỉ
+[ ] fooderai_thitbothan.png          — Thịt bò thăn
+[ ] fooderai_ucga.png                — Ức gà
+[ ] fooderai_catraphile.png          — Cá tra phi lê
+[ ] fooderai_tomsu.png               — Tôm sú
+[ ] fooderai_trungga.png             — Trứng gà
+[ ] fooderai_cahoi.png               — Cá hồi
+[ ] fooderai_mucong.png              — Mực ống
+[ ] fooderai_thitvit.png             — Thịt vịt
+[ ] fooderai_cuadong.png             — Cua đồng
+[x] fooderai_gaote.png               — Gạo tẻ sống
+[x] fooderai_khoailang.png           — Khoai lang
+[x] fooderai_khoaitay.png            — Khoai tây
+[x] fooderai_bapngo.png              — Bắp ngô
+[ ] fooderai_yenmach.png             — Yến mạch
+[ ] fooderai_quinoa.png              — Quinoa
+[ ] fooderai_dauxanh.png             — Đậu xanh
+[ ] fooderai_hanhnhan.png            — Hạnh nhân
+[x] fooderai_raumuong.png            — Rau muống (nguyên liệu)
+[x] fooderai_bapcai.png              — Bắp cải
+[x] fooderai_cachua.png              — Cà chua
+[x] fooderai_carot.png               — Cà rốt
+[ ] fooderai_hanhtay.png             — Hành tây
+[ ] fooderai_toi.png                 — Tỏi
+[ ] fooderai_gung.png                — Gừng
+[ ] fooderai_sa.png                  — Sả
+[x] fooderai_otchuong.png            — Ớt chuông
+[ ] fooderai_otsung.png              — Ớt sừng
+[ ] fooderai_namrom.png              — Nấm rơm
+[ ] fooderai_khoqua.png              — Khổ qua mướp đắng
+[ ] fooderai_bido.png                — Bí đỏ
+[ ] fooderai_daubap.png              — Đậu bắp
+[ ] fooderai_rauhung.png             — Rau húng quế
+[ ] fooderai_caithia.png             — Cải thìa
+[ ] fooderai_giado.png               — Giá đỗ
+[x] fooderai_bongcaixanh.png         — Bông cải xanh
+[ ] fooderai_spinach.png             — Cải bó xôi Spinach
+[ ] fooderai_avocado.png             — Bơ Avocado
+[ ] fooderai_atiso.png               — Atisô
+[ ] fooderai_cantay.png              — Cần tây
+[ ] fooderai_dualeo.png              — Dưa leo
+[ ] fooderai_namdonco.png            — Nấm đông cô
+[ ] fooderai_chuoi.png               — Chuối tiêu
+[ ] fooderai_xoai.png                — Xoài chín
+[ ] fooderai_thanhlong.png           — Thanh long đỏ
+[ ] fooderai_dua.png                 — Dừa tươi
+[ ] fooderai_dautay.png              — Dâu tây
+[ ] fooderai_taoxanh.png             — Táo xanh
+[ ] fooderai_vietquat.png            — Việt quất
+[ ] fooderai_chanhvang.png           — Chanh vàng
+
+[ DRINK / drink/ ] — 60 món
+====================================================================
+[x] fooderai_caphedenkhongduong.png  — Cà phê đen không đường
+[x] fooderai_caphesuada.png          — Cà phê sữa đá
+[ ] fooderai_espresso.png            — Espresso
+[ ] fooderai_americano.png           — Americano
+[ ] fooderai_cappuccino.png          — Cappuccino
+[ ] fooderai_latte.png               — Latte
+[ ] fooderai_coldbrew.png            — Cold brew
+[ ] fooderai_caphetrung.png          — Cà phê trứng Hà Nội
+[x] fooderai_bacxiu.png              — Bạc xỉu
+[x] fooderai_caphedua.png            — Cà phê dừa
+[ ] fooderai_mocha.png               — Mocha
+[ ] fooderai_macchiato.png           — Macchiato
+[ ] fooderai_tradakhongduong.png     — Trà đá không đường
+[ ] fooderai_trasuatranchau.png      — Trà sữa trân châu
+[ ] fooderai_matchalatte.png         — Trà xanh Matcha latte
+[ ] fooderai_hongtrasua.png          — Hồng trà sữa
+[ ] fooderai_traatiso.png            — Trà atisô đá
+[ ] fooderai_trabidao.png            — Trà bí đao
+[ ] fooderai_trahoacuc.png           — Trà hoa cúc
+[ ] fooderai_tragung.png             — Trà gừng mật ong
+[ ] fooderai_traolongda.png          — Trà ô long đá
+[ ] fooderai_tradaocamsa.png         — Trà đào cam sả
+[ ] fooderai_kombucha.png            — Kombucha
+[ ] fooderai_tralai.png              — Trà lài đá
+[ ] fooderai_bobamatcha.png          — Boba matcha
+[ ] fooderai_trasuataro.png          — Trà sữa taro
+[ ] fooderai_nuoepcam.png            — Nước ép cam tươi
+[x] fooderai_nuocepduahau.png        — Nước ép dưa hấu
+[ ] fooderai_sinhtocbo.png           — Sinh tố bơ sữa
+[ ] fooderai_sinhtocxoai.png         — Sinh tố xoài
+[ ] fooderai_sinhtodautay.png        — Sinh tố dâu tây
+[ ] fooderai_nuoepcArottao.png       — Nước ép cà rốt táo
+[ ] fooderai_nuoepcantay.png         — Nước ép cần tây
+[ ] fooderai_nuocepdua.png           — Nước ép dứa
+[ ] fooderai_nuoceplyy.png           — Nước ép lựu
+[ ] fooderai_sinhtocvietquat.png     — Sinh tố việt quất
+[ ] fooderai_nuoceptaoxanh.png       — Nước ép táo xanh
+[x] fooderai_sinhtochuoisua.png      — Sinh tố chuối sữa
+[ ] fooderai_nuoepdualeo.png         — Nước ép dưa leo
+[ ] fooderai_sinhtocthanhlong.png    — Sinh tố thanh long
+[ ] fooderai_nuoepgungchanh.png      — Nước ép gừng chanh
+[ ] fooderai_smoothieraucu.png       — Smoothie rau củ
+[ ] fooderai_nuoepcaixanh.png        — Nước ép cải xanh
+[ ] fooderai_sinhtocsuachuadau.png   — Sinh tố sữa chua dâu
+[ ] fooderai_nuoeplegung.png         — Nước ép lê gừng
+[ ] fooderai_detoxchanhdualeo.png    — Nước detox chanh dưa leo
+[ ] fooderai_nuocmia.png             — Nước mía
+[ ] fooderai_nuocduatuoi.png         — Nước dừa tươi
+[ ] fooderai_raumada.png             — Rau má đá
+[ ] fooderai_nuochanhmuoi.png        — Nước chanh muối
+[ ] fooderai_samlanh.png             — Sâm lạnh
+[ ] fooderai_sodasuamuoi.png         — Soda sữa muối
+[ ] fooderai_chedauxanh.png          — Chè đậu xanh đá
+[ ] fooderai_lemonadebache.png       — Lemonade bạc hà
+[ ] fooderai_mojito.png              — Mojito không cồn
+[ ] fooderai_sodavai.png             — Soda vải
+[ ] fooderai_suahanhnhan.png         — Sữa hạnh nhân
+[ ] fooderai_suayenmach.png          — Sữa yến mạch
+[ ] fooderai_hongtradao.png          — Hồng trà đào
+[ ] fooderai_nuocgungmatong.png      — Nước gừng mật ong ấm
+
+====================================================================
+TỔNG KẾT:
+  food/       : 10/50 ảnh [x]
+  ingredient/ :  9/50 ảnh [x]
+  drink/      :  7/60 ảnh [x]
+  TỔNG        : 26/160 ảnh
+====================================================================
