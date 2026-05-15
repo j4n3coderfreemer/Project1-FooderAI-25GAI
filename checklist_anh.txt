@@ -62,7 +62,7 @@ Thư mục: assets/fooder-almanac-content/[food | drink | ingredient]
 [x] fooderai_thitbothan.png          — Thịt bò thăn
 [x] fooderai_ucga.png                — Ức gà
 [x] fooderai_catraphile.png          — Cá tra phi lê
-[ ] fooderai_tomsu.png               — Tôm sú
+[x] fooderai_tomsu.png               — Tôm sú
 [ ] fooderai_trungga.png             — Trứng gà
 [ ] fooderai_cahoi.png               — Cá hồi
 [ ] fooderai_mucong.png              — Mực ống
@@ -113,9 +113,9 @@ Thư mục: assets/fooder-almanac-content/[food | drink | ingredient]
 ====================================================================
 [x] fooderai_caphedenkhongduong.png  — Cà phê đen không đường
 [x] fooderai_caphesuada.png          — Cà phê sữa đá
-[ ] fooderai_espresso.png            — Espresso
-[ ] fooderai_americano.png           — Americano
-[ ] fooderai_cappuccino.png          — Cappuccino
+[x] fooderai_espresso.png            — Espresso
+[x] fooderai_americano.png           — Americano
+[x] fooderai_cappuccino.png          — Cappuccino
 [ ] fooderai_latte.png               — Latte
 [ ] fooderai_coldbrew.png            — Cold brew
 [ ] fooderai_caphetrung.png          — Cà phê trứng Hà Nội
