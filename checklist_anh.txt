@@ -19,14 +19,14 @@ Thư mục: assets/fooder-almanac-content/[food | drink | ingredient]
 [x] fooderai_bundaumamtom.png        — Bún đậu mắm tôm
 [x] fooderai_chacalavong.png         — Chả cá Lã Vọng
 [x] fooderai_banhkhot.png            — Bánh khọt Vũng Tàu
-[ ] fooderai_bolalot.png             — Bò lá lốt
-[ ] fooderai_banhbeo.png             — Bánh bèo Huế
-[ ] fooderai_banhcan.png             — Bánh căn Phan Rang
-[ ] fooderai_bunrieu.png             — Bún riêu cua
-[ ] fooderai_hutieu.png              — Hủ tiếu Nam Vang
-[ ] fooderai_chaolong.png            — Cháo lòng
+[x] fooderai_bolalot.png             — Bò lá lốt
+[x] fooderai_banhbeoHue.png          — Bánh bèo Huế
+[x] fooderai_banhcanPhanRang.png     — Bánh căn Phan Rang
+[x] fooderai_bunrieucua.png          — Bún riêu cua
+[X] fooderai_hutieunamvang.png       — Hủ tiếu Nam Vang
+[x] fooderai_chaolong.png            — Cháo lòng
 [ ] fooderai_banhtrangtron.png       — Bánh tráng trộn Sài Gòn
-[ ] fooderai_comhen.png              — Cơm hến Huế
+[ ] fooderai_comhenhue.png              — Cơm hến Huế
 [ ] fooderai_bunmam.png              — Bún mắm miền Tây
 [ ] fooderai_laucakeo.png            — Lẩu cá kèo
 [ ] fooderai_banhduc.png             — Bánh đúc nộm
@@ -63,11 +63,11 @@ Thư mục: assets/fooder-almanac-content/[food | drink | ingredient]
 [x] fooderai_ucga.png                — Ức gà
 [x] fooderai_catraphile.png          — Cá tra phi lê
 [x] fooderai_tomsu.png               — Tôm sú
-[ ] fooderai_trungga.png             — Trứng gà
-[ ] fooderai_cahoi.png               — Cá hồi
-[ ] fooderai_mucong.png              — Mực ống
-[ ] fooderai_thitvit.png             — Thịt vịt
-[ ] fooderai_cuadong.png             — Cua đồng
+[x] fooderai_trungga.png             — Trứng gà
+[x] fooderai_cahoi.png               — Cá hồi
+[x] fooderai_mucong.png              — Mực ống
+[x] fooderai_thitvit.png             — Thịt vịt
+[x] fooderai_cuadong.png             — Cua đồng
 [x] fooderai_gaote.png               — Gạo tẻ sống
 [x] fooderai_khoailang.png           — Khoai lang
 [x] fooderai_khoaitay.png            — Khoai tây
@@ -116,7 +116,7 @@ Thư mục: assets/fooder-almanac-content/[food | drink | ingredient]
 [x] fooderai_espresso.png            — Espresso
 [x] fooderai_americano.png           — Americano
 [x] fooderai_cappuccino.png          — Cappuccino
-[ ] fooderai_latte.png               — Latte
+[x] fooderai_latte.png               — Latte
 [ ] fooderai_coldbrew.png            — Cold brew
 [ ] fooderai_caphetrung.png          — Cà phê trứng Hà Nội
 [x] fooderai_bacxiu.png              — Bạc xỉu
@@ -173,9 +173,4 @@ Thư mục: assets/fooder-almanac-content/[food | drink | ingredient]
 [ ] fooderai_nuocgungmatong.png      — Nước gừng mật ong ấm
 
 ====================================================================
-TỔNG KẾT:
-  food/       : 10/50 ảnh [x]
-  ingredient/ :  9/50 ảnh [x]
-  drink/      :  7/60 ảnh [x]
-  TỔNG        : 26/160 ảnh
-====================================================================
+
