@@ -1,8 +1,29 @@
 import os
+import sys  # [FIX - 21:12] Thiếu import sys → resource_path() crash ngay khi gọi hasattr(sys, ...)
 from PySide6.QtWidgets import QFrame, QVBoxLayout, QLabel, QGraphicsDropShadowEffect, QWidget, QHBoxLayout
 from PySide6.QtCore import Qt
 from PySide6.QtGui import QFont, QColor, QPixmap
 
+"""
+[HÀM CẤP CỨU] resource_path - Giải quyết bài toán đường dẫn 2 môi trường
+──────────────────────────────────────────────────────────────────────────
+Vấn đề cốt lõi:
+  - Khi chạy .py bình thường: assets/ nằm cạnh file .py → os.path hoạt động bình thường.
+  - Khi PyInstaller đóng gói thành .exe: toàn bộ assets bị giải nén vào thư mục
+    tạm sys._MEIPASS (ví dụ: C:/Users/.../AppData/Local/Temp/_MEI1234/).
+    Lúc này os.path.join("assets", ...) trỏ sai chỗ → không tìm thấy file → mất ảnh.
+
+Cách sửa:
+  - Kiểm tra hasattr(sys, '_MEIPASS'): nếu True tức đang chạy từ .exe đã đóng gói
+    → dùng sys._MEIPASS làm gốc.
+  - Nếu False tức đang chạy .py thường → dùng thư mục hiện tại làm gốc.
+
+Cách dùng: thay os.path.join("assets", ...) bằng resource_path(os.path.join("assets", ...))
+"""
+def resource_path(relative_path):
+    if hasattr(sys, '_MEIPASS'):
+        return os.path.join(sys._MEIPASS, relative_path)
+    return os.path.join(os.path.abspath("."), relative_path)
 
 # =====================================================================
 # LỚP 1: STATCARD (CHỈ CHỨA LOGIC CỦA 4 CÁI HỘP BMI, BMR...)
@@ -84,7 +105,8 @@ class DashboardOverview(QWidget):
           self.header_icon = QLabel()
           self.header_icon.setFixedSize(30, 30)
 
-          icon_path = os.path.join("assets", "fooderai-blockcomponent", "fooderai-tqsk-username.png")
+          # [FIX - 21:12] Dùng resource_path() → load đúng khi chạy .exe
+          icon_path = resource_path(os.path.join("assets", "fooderai-blockcomponent", "fooderai-tqsk-username.png"))
 
           if os.path.exists(icon_path):
                self.header_icon.setPixmap(QPixmap(icon_path).scaled(
@@ -99,7 +121,7 @@ class DashboardOverview(QWidget):
 
           exact_font = QFont("Roboto")
           exact_font.setPixelSize(25)
-          exact_font.setStyleStrategy(QFont.PreferAntialias)
+          exact_font.setStyleStrategy(QFont.StyleStrategy.PreferAntialias)  # [FIX - 21:12] PySide6 yêu cầu dùng QFont.StyleStrategy.PreferAntialias thay vì QFont.PreferAntialias (cú pháp cũ PyQt5)
 
           self.lbl_header_text.setFont(exact_font)
           self.lbl_header_text.setStyleSheet("color: #266066; background: transparent;")
@@ -151,30 +173,46 @@ class ModeButton(QFrame):
           self.lbl_icon.setStyleSheet("border: none; background: transparent;")
           self.lbl_icon.setFixedHeight(28)
 
-          path_icon = os.path.join("assets", "fooderai-blockcomponent", icon_name)
+          """
+          [FIX - 21:12] Tách lbl_text ra NGOÀI khối if os.path.exists
+          ──────────────────────────────────────────────────────────────
+          Lỗi gốc: self.lbl_text = QLabel(text) nằm BÊN TRONG if os.path.exists(path_icon).
+          Hậu quả: Nếu file icon không tồn tại (đặc biệt khi chạy .exe vì đường dẫn sai),
+          Python bỏ qua toàn bộ khối if → self.lbl_text không bao giờ được tạo ra.
+          Nhưng phía dưới layout.addWidget(self.lbl_text) vẫn cố gọi nó → AttributeError.
+
+          Nguyên tắc: Widget nào LUÔN CẦN HIỂN THỊ thì phải tạo TRƯỚC, NGOÀI mọi điều kiện.
+          Chỉ những thứ phụ thuộc điều kiện (ví dụ: pixmap của icon) mới nằm trong if.
+          """
+
+          # 2. Chế tác nhãn chữ - tạo TRƯỚC, ĐỘC LẬP với việc icon có load được hay không
+          self.lbl_text = QLabel(text)
+
+          """
+          [CÚ PHÁP TRIỆU HỒI CHUẨN MỰC]
+          - Bước 1: Gọi đúng "họ" gốc là Roboto.
+          - Bước 2: Khóa cứng 18px.
+          - Bước 3: Ép cân nặng (Weight) là Medium.
+          - Bước 4: (QUAN TRỌNG NHẤT) Ép độ hẹp (Stretch) là SemiCondensed.
+          """
+          exact_font = QFont("Roboto")
+          exact_font.setPixelSize(18)
+          exact_font.setWeight(QFont.Weight.Medium)
+
+          # Đây chính là "chìa khóa" để biến Roboto thường thành Roboto SemiCondensed!
+          exact_font.setStretch(QFont.Stretch.SemiCondensed)
+
+          self.lbl_text.setFont(exact_font)
+          self.lbl_text.setStyleSheet("color: #266066; border: none; background: transparent;")
+
+          # [FIX - 21:12] Dùng resource_path() thay os.path.join() thẳng
+          # → đảm bảo tìm đúng thư mục dù chạy .py hay .exe đã đóng gói
+          path_icon = resource_path(os.path.join("assets", "fooderai-blockcomponent", icon_name))
           if os.path.exists(path_icon):
                pix = QPixmap(path_icon)
                self.lbl_icon.setPixmap(pix.scaledToHeight(28, Qt.TransformationMode.SmoothTransformation))
-
-               # 2. Chế tác nhãn chữ (Font: Roboto SemiCondensed Medium, 14px)
-               self.lbl_text = QLabel(text)
-
-               """
-               [CÚ PHÁP TRIỆU HỒI CHUẨN MỰC]
-               - Bước 1: Gọi đúng "họ" gốc là Roboto.
-               - Bước 2: Khóa cứng 14px.
-               - Bước 3: Ép cân nặng (Weight) là Medium.
-               - Bước 4: (QUAN TRỌNG NHẤT) Ép độ hẹp (Stretch) là SemiCondensed.
-               """
-               exact_font = QFont("Roboto")
-               exact_font.setPixelSize(18)
-               exact_font.setWeight(QFont.Weight.Medium)
-
-               # Đây chính là "chìa khóa" để biến Roboto thường thành Roboto SemiCondensed!
-               exact_font.setStretch(QFont.Stretch.SemiCondensed)
-
-               self.lbl_text.setFont(exact_font)
-               self.lbl_text.setStyleSheet("color: #266066; border: none; background: transparent;")
+          else:
+               print(f"[LOG LỖI - 21:12] Không tìm thấy icon: {path_icon} — nút vẫn hiển thị chữ bình thường")
 
           # 3. Ép trọng tâm
           self.layout.addStretch()
