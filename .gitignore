@@ -1,6 +1,13 @@
-﻿# Assets nặng — không push lên GitHub
-assets/fdai-gym-content/video/
-assets/fdai-gym-content/thumbnail/
-assets/fooder-almanac-content/
+﻿# Video và ảnh nặng
 *.mp4
 *.avi
+*.mov
+assets/fdai-gym-content/
+assets/fooder-almanac-content/
+assets/fdai-food-content/
+__pycache__/
+.venv/
+*.pyc
+dist/
+build/
+*.spec
