@@ -1,0 +1,243 @@
+============================
+THƯ VIỆN BÀI TẬP THỂ DỤC
+============================
+Nhóm tuổi:
+  - Trẻ em   : 4 – 15 tuổi
+  - Thanh niên: 16 – 52 tuổi
+  - Người già : 53 tuổi trở lên
+
+============================
+
+--- TRẺ EM (4 – 15 tuổi) ---
+
+1. NHẢY DÂY
+   Mô tả: Nhảy dây tại chỗ, đếm số lần, 2–3 hiệp x 30 nhảy
+   Search keyword: "hướng dẫn nhảy dây đúng cách cho người mới"
+   [x] - fdgym_nhayday_thumbnail.png
+   [x] - fdgym_nhayday_video.mp4
+
+2. JUMPING JACK (vỗ tay qua đầu)
+   Mô tả: Bật chân ra – tay vỗ trên đầu, về – tay xuống. Không dụng cụ
+   Search keyword: "jumping jacks for kids how to"
+   [x] - fdgym_jumpingjack_thumbnail.png
+   [x] - fdgym_jumpingjack_video.mp4
+
+3. CHẠY TẠI CHỖ NÂNG GỐI
+   Mô tả: Chạy tại chỗ nâng gối cao ngang hông, 30 giây x 3 hiệp
+   Search keyword: "chạy tại chỗ nâng gối cao cho trẻ em"
+   [x] - fdgym_chaytaicho_thumbnail.png
+   [x] - fdgym_chaytaicho_video.mp4
+
+4. BẬT XA TẠI CHỖ
+   Mô tả: Bật 2 chân về phía trước càng xa càng tốt, 5 lần x 2-3 hiệp
+   Ghi chú: Bài thể dục quen thuộc trong giờ thể dục tiểu học Việt Nam
+   Video tham khảo: https://www.youtube.com/watch?v=Ij9f8IwjYq4
+   Search keyword: "hướng dẫn kỹ thuật bật xa tại chỗ"
+   [x] - fdgym_batxa_thumbnail.png
+   [x] - fdgym_batxa_video.mp4
+
+5. VƯƠN NGƯỜI BUỔI SÁNG
+   Mô tả: Đưa tay lên cao hít vào, sang ngang, cúi người nhẹ thở ra. 8–10 lần
+   Ghi chú: Bài khởi động buổi sáng quen thuộc ở trường tiểu học
+   Search keyword: "bài tập vươn người khởi động buổi sáng cho trẻ em"
+   [x] - fdgym_vuonnguoi_thumbnail.png
+   [x] - fdgym_vuonnguoi_video.mp4
+
+6. XOAY KHỚP TOÀN THÂN
+   Mô tả: Xoay lần lượt cổ → vai → hông → gối → mắt cá, 5 vòng mỗi khớp. 3–4 phút
+   Ghi chú: Bài khởi động kinh điển trong giờ thể dục trường học
+   Search keyword: "xoay khớp toàn thân khởi động thể dục"
+   [x] - fdgym_xoaykhop_kids_thumbnail.png
+   [x] - fdgym_xoaykhop_kids_video.mp4
+
+
+--- THANH NIÊN (16 – 52 tuổi) ---
+
+7. SQUAT CƠ BẢN
+   Mô tả: Đứng rộng bằng vai, ngồi xuống như ngồi ghế, giữ lưng thẳng. 3 x 12 reps
+   Search keyword: "how to squat properly beginners"
+   [x] - fdgym_squat_teen_thumbnail.png
+   [x] - fdgym_squat_teen_video.mp4
+
+8. PUSH-UP (chống đẩy)
+   Mô tả: Chống tay rộng bằng vai, hạ ngực xuống sát sàn rồi đẩy lên. 3 x 10 reps
+   Search keyword: "push up proper form beginners"
+   [x] - fdgym_pushup_thumbnail.png
+   [x] - fdgym_pushup_video.mp4
+
+9. LUNGE (bước dài)
+   Mô tả: Bước một chân dài về trước, hạ gối sau gần sàn, đổi chân. 3 x 10 reps mỗi chân
+   Search keyword: "lunge exercise proper form beginners"
+   [x] - fdgym_lunge_thumbnail.png
+   [x] - fdgym_lunge_video.mp4
+
+10. PLANK NÂNG CAO (full plank)
+    Mô tả: Chống 2 bàn tay thay vì khuỷu tay, giữ thẳng toàn thân 30–60 giây
+    Search keyword: "plank exercise proper form beginners"
+    [x] - fdgym_plank_nangcao_thumbnail.png
+    [x] - fdgym_plank_nangcao_video.mp4
+
+11. MOUNTAIN CLIMBER
+    Mô tả: Tư thế chống đẩy, co gối luân phiên vào ngực nhanh nhất có thể. 3 x 20 giây
+    Search keyword: "mountain climber exercise beginners"
+    [x] - fdgym_mountainclimber_thumbnail.png
+    [x] - fdgym_mountainclimber_video.mp4
+
+12. BURPEE
+    Mô tả: Squat xuống – chống đẩy – đứng lên – bật nhảy. 3 x 8 reps
+    Ghi chú: Bài cardio toàn thân cường độ cao, đốt calo nhanh nhất
+    Search keyword: "burpee exercise proper form beginners"
+    [x] - fdgym_burpee_thumbnail.png
+    [x] - fdgym_burpee_video.mp4
+
+13. GLUTE BRIDGE (cầu mông)
+    Mô tả: Nằm ngửa, gối gập, đẩy hông lên cao giữ 2 giây rồi hạ xuống. 3 x 15 reps
+    Search keyword: "glute bridge exercise proper form beginners"
+    [x] - fdgym_glutebridge_thumbnail.png
+    [x] - fdgym_glutebridge_video.mp4
+
+14. JUMPING SQUAT (squat bật)
+    Mô tả: Squat xuống rồi bật mạnh lên cao, tiếp đất nhẹ bằng mũi chân. 3 x 10 reps
+    Search keyword: "jump squat exercise proper form beginners"
+    [x] - fdgym_jumpingsquat_thumbnail.png
+    [x] - fdgym_jumpingsquat_video.mp4
+
+15. CALF RAISE (kiễng gót)
+    Mô tả: Đứng thẳng, kiễng 2 gót lên cao giữ 1 giây rồi hạ xuống. 3 x 20 reps
+    Ghi chú: Tập bắp chân, có thể dùng bậc thang để tăng biên độ
+    Search keyword: "calf raise exercise proper form beginners"
+    [x] - fdgym_calfraise_thumbnail.png
+    [x] - fdgym_calfraise_video.mp4
+
+16. SUPERMAN
+    Mô tả: Nằm sấp, đồng thời nâng tay và chân lên khỏi sàn, giữ 2 giây. 3 x 12 reps
+    Ghi chú: Tập cơ lưng dưới và cơ mông, tư thế giống Superman bay
+    Search keyword: "superman exercise back proper form beginners"
+    [x] - fdgym_superman_thumbnail.png
+    [x] - fdgym_superman_video.mp4
+
+17. SIDE LUNGE (bước sang ngang)
+    Mô tả: Bước rộng sang ngang, ngồi xuống 1 bên, đứng lên đổi bên. 3 x 10 reps mỗi bên
+    Search keyword: "side lunge exercise proper form beginners"
+    [x] - fdgym_sidelunge_thumbnail.png
+    [x] - fdgym_sidelunge_video.mp4
+
+18. HIP THRUST (đẩy hông)
+    Mô tả: Lưng tựa ghế, đẩy hông lên cao thẳng hàng vai-hông-gối, giữ 1 giây. 3 x 15 reps
+    Ghi chú: Tập cơ mông sâu hơn Glute Bridge, cần 1 chiếc ghế thấp
+    Search keyword: "hip thrust exercise proper form beginners"
+    [x] - fdgym_hipthrust_thumbnail.png
+    [x] - fdgym_hipthrust_video.mp4
+
+19. TRICEP DIP (chống tay ghế)
+    Mô tả: Tay chống mép ghế phía sau, hạ người xuống bằng cách gập khuỷu, đẩy lên. 3 x 10 reps
+    Ghi chú: Tập cơ tay sau, chỉ cần 1 chiếc ghế chắc chắn
+    Search keyword: "tricep dip chair exercise proper form beginners"
+    [X] - fdgym_tricepdip_thumbnail.png
+    [X] - fdgym_tricepdip_video.mp4
+
+20. DEAD BUG (bọ chết)
+    Mô tả: Nằm ngửa, tay chân duỗi lên, hạ tay trái + chân phải xuống gần sàn rồi đổi. 3 x 10 reps
+    Ghi chú: Tập cơ lõi sâu, an toàn cho lưng hơn sit-up
+    Search keyword: "dead bug exercise proper form beginners"
+    [x] - fdgym_deadbug_thumbnail.png
+    [x] - fdgym_deadbug_video.mp4
+
+21. ĐẠP XE TĨNH
+    Mô tả: Đạp xe tại chỗ cường độ vừa, 20–30 phút mỗi buổi
+    Ghi chú: Dụng cụ cần: xe đạp tập tại chỗ (stationary bike) — thuê hoặc mua
+    Search keyword: "stationary bike workout beginners"
+    [x] - fdgym_dapxetinh_thumbnail.png
+    [x] - fdgym_dapxetinh_video.mp4
+
+22. DUMBBELL CURL (cuộn tạ tay)
+    Mô tả: Cầm tạ 2 tay, cuộn lên ngang vai rồi hạ xuống từ từ. 3 x 12 reps mỗi tay
+    Ghi chú: Dụng cụ cần: 1 đôi tạ tay 2–5kg
+    Search keyword: "dumbbell curl exercise proper form beginners"
+    [x] - fdgym_dumbbellcurl_thumbnail.png
+    [x] - fdgym_dumbbellcurl_video.mp4
+
+
+--- NGƯỜI GIÀ (53 tuổi trở lên) ---
+   * Ưu tiên bài ngồi ghế, đứng tựa tường — không xuống sàn, không tạ, không bật nhảy
+   * Phù hợp người ít vận động lâu năm, đầu gối yếu, huyết áp cao
+
+23. THỞ BỤNG SÂU (bài khởi động bắt buộc)
+    Mô tả: Ngồi thẳng trên ghế, hít vào phình bụng 4 giây, giữ 2 giây, thở ra 6 giây. 10 lần
+    Ghi chú: Bài đầu tiên nên tập mỗi ngày — ổn định huyết áp, giảm căng thẳng
+    Search keyword: "deep belly breathing exercise for seniors seated"
+    [x] - fdgym_thobung_thumbnail.png
+    [x] - fdgym_thobung_video.mp4
+
+24. XOAY CỔ TAY VÀ MẮT CÁ CHÂN (trên ghế) (PHẢI SỬA)
+    Mô tả: Ngồi ghế, xoay cổ tay 10 vòng mỗi bên, xoay mắt cá chân 10 vòng mỗi bên
+    Ghi chú: Giúp khớp nhỏ linh hoạt, giảm tê bì tay chân
+    Search keyword: "ankle wrist rotation exercise seniors seated"
+    [x] - fdgym_xoaykhop_thumbnail.png
+    [x] - fdgym_xoaykhop_video.mp4
+
+25. CHAIR CAT-COW (co giãn cột sống trên ghế)
+    Mô tả: Ngồi thẳng, hít vào ưỡn ngực ra, thở ra khom lưng như mèo. 5 phút
+    Ghi chú: Giảm đau lưng, tăng linh hoạt cột sống — không cần xuống sàn
+    Search keyword: "seated cat cow stretch for seniors"
+    [x] - fdgym_chaircatcow_thumbnail.png
+    [x] - fdgym_chaircatcow_video.mp4
+
+26. WALL PUSH-UP (chống đẩy vào tường)
+    Mô tả: Đứng cách tường 1 bước, đặt tay ngang vai, chống đẩy nhẹ nhàng. 2 x 8 reps
+    Ghi chú: An toàn tuyệt đối cho người lớn tuổi, không tải trọng lên khớp vai
+    Search keyword: "wall push up exercise for seniors beginners"
+    [x] - fdgym_wallpushup_thumbnail.png
+    [x] - fdgym_wallpushup_video.mp4
+
+27. ĐỨNG MỘT CHÂN TỰA TƯỜNG (luyện thăng bằng)
+    Mô tả: Đứng tựa tay nhẹ vào tường, nhấc 1 chân vài cm, giữ 5–10 giây rồi đổi. 5 lần mỗi chân
+    Ghi chú: Luyện thăng bằng giúp giảm nguy cơ té ngã — vấn đề số 1 với người 53+
+    Search keyword: "balance exercise one leg stand seniors wall support"
+    [x] - fdgym_thangbang_thumbnail.png
+    [x] - fdgym_thangbang_video.mp4
+
+28. GIẬM CHÂN TẠI CHỖ TRÊN GHẾ
+    Mô tả: Ngồi thẳng trên ghế, giậm chân trái-phải luân phiên như đi bộ tại chỗ. 2 phút
+    Ghi chú: Tăng tuần hoàn máu chân, phù hợp người ngồi nhiều cả ngày
+    Search keyword: "seated marching exercise seniors chair"
+    [x] - fdgym_giamchan_thumbnail.png
+    [x] - fdgym_giamchan_video.mp4
+
+29. KIỄNG GÓT ĐỨNG TỰA TƯỜNG
+    Mô tả: Đứng tựa nhẹ tay vào tường, kiễng 2 gót lên cao giữ 2 giây rồi hạ xuống. 2 x 15 reps
+    Ghi chú: Tăng cường cơ bắp chân và tuần hoàn, giảm phù chân
+    Search keyword: "calf raise wall support exercise seniors"
+    [ ] - fdgym_kienggot_thumbnail.png
+    [ ] - fdgym_kienggot_video.mp4
+
+30. VƯƠN TAY SANG NGANG TRÊN GHẾ
+    Mô tả: Ngồi thẳng, từ từ đưa 2 tay sang ngang ngang vai, giữ 3 giây rồi hạ xuống. 2 x 10 reps
+    Ghi chú: Giảm cứng vai và cổ, tăng linh hoạt khớp vai
+    Search keyword: "seated arm raise exercise seniors shoulder"
+    [ ] - fdgym_vuontay_thumbnail.png
+    [ ] - fdgym_vuontay_video.mp4
+
+31. LĂN CỔ CHẬM
+    Mô tả: Ngồi thẳng, nghiêng đầu sang trái-phải-trước-sau chậm rãi, mỗi hướng giữ 5 giây. 5 lần
+    Ghi chú: Giảm cứng cổ và đau vai gáy — không xoay tròn 360 độ
+    Search keyword: "neck stretch exercise seniors seated"
+    [ ] - fdgym_lancoc_thumbnail.png
+    [ ] - fdgym_lancoc_video.mp4
+
+32. NGỒI ĐỨNG CHẬM (CHAIR SQUAT)
+    Mô tả: Ngồi ghế, từ từ đứng lên không dùng tay, đứng thẳng 1 giây rồi ngồi xuống chậm. 2 x 10 reps
+    Ghi chú: Tập cơ đùi và mông an toàn, giúp người già tự đứng dậy dễ hơn hằng ngày
+    Search keyword: "chair squat sit to stand exercise seniors"
+    [ ] - fdgym_ngoidung_thumbnail.png
+    [ ] - fdgym_ngoidung_video.mp4
+
+============================
+* Ghi chú: Khi có source, thay [ ] thành [x] và điền tên file thực tế vào
+* Dụng cụ cần chuẩn bị:
+    - Bài 21 (Đạp xe tĩnh)   : xe đạp tập tại chỗ
+    - Bài 22 (Dumbbell Curl) : 1 đôi tạ tay 2–5kg
+============================
+
+
+Naked, breasts and vagina exposed, sitting at a table, sitting on the floor, showing off her vagina, showing both soles of her feet clearly, high toes, elegant, no clothes, no coat, completely naked.

@@ -7,7 +7,7 @@ from PySide6.QtWidgets import (QFrame, QVBoxLayout, QHBoxLayout, QLabel,
 from PySide6.QtCore import Qt, QEvent, QRect, QPoint, QSize
 from PySide6.QtGui import QFont, QColor, QPixmap, QPainter, QPainterPath, QLinearGradient, QBrush, QPen, QRadialGradient
 # insert file vô làm rõ vấn đề về thức ăn
-from pages.food_image_map import FOOD_DATA  # Nguồn dữ liệu duy nhất — không lưu data ở đây nữa
+from pages.food_image_map import FOOD_DATA, check_image, FILE_FOUND, FILE_NOT_FOUND  # FOOD_DATA: dữ liệu món ăn | check_image/FILE_*: kiểm tra file ảnh tồn tại
 
 
 # =====================================================================
@@ -423,25 +423,28 @@ class PageFoodAlmanac(QFrame):
                if subfolder:
                     img_path = os.path.join(BASE_IMG_DIR, subfolder, img_file)
 
-                    if os.path.exists(img_path):
+                    _img_status = check_image(img_path)
+                    if _img_status == FILE_FOUND:
                          pix = QPixmap(img_path)
                     else:
-                         print(f"[IMAGE NOT FOUND] {img_path}")
+                         print(f"{_img_status}: {img_path}")
 
                else:
+                    # Tab ALL → dò qua tất cả folder, dùng check_image thay os.path.exists
                     found = False
 
                     for folder in ["food", "ingredient", "drink"]:
 
                          img_path = os.path.join(BASE_IMG_DIR, folder, img_file)
 
-                         if os.path.exists(img_path):
+                         if check_image(img_path) == FILE_FOUND:
                               pix = QPixmap(img_path)
                               found = True
                               break
 
                     if not found:
-                         print(f"[IMAGE NOT FOUND] {img_file}")
+                         # In rõ status + tên file — dễ debug hơn [IMAGE NOT FOUND]
+                         print(f"{FILE_NOT_FOUND}: {img_file}")
 
                # =====================================================
                # ADD CARD VÀO GRID
@@ -517,7 +520,7 @@ class FoodCard(QFrame):
           # Kích thước mỗi thẻ: Chiều rộng tự co theo grid, cao cố định 115px
           # [FIX UI]
           # Tăng chiều cao card để text có không gian thở 😌
-          self.setFixedHeight(135)
+          self.setFixedHeight(155) #UPDATE: TĂNG LÊN 155 ĐỂ CHO NÓ CÓ DESCRIPTION 3 DÒNG
 
           # [FIX UI]
           # Giới hạn chiều rộng tối đa để grid 2 cột không bị ép #sửa tại đây
@@ -621,7 +624,7 @@ class FoodCard(QFrame):
           lbl_desc.setFont(desc_font)
           lbl_desc.setStyleSheet("color: #4A5568; border: none; background: transparent;")
           lbl_desc.setWordWrap(True)
-          lbl_desc.setMaximumHeight(40)
+          lbl_desc.setMaximumHeight(80)
 
           # Hàng 3: Nhãn dinh dưỡng
           nutrients_str = ", ".join(nutrients[:5]) if nutrients else ""

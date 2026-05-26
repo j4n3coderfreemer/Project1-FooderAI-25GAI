@@ -854,13 +854,10 @@ class PageUserProfile(QFrame):
                 p.setFont(self.font())
                 rect = self.rect()
                 text = self.text()
-                # Shadow trung tâm: vẽ chữ đen mờ lệch 4 hướng chéo 1px → tạo halo đều
-                p.setPen(QColor(0, 0, 0, 80))
-                for dx, dy in [(-1,-1),(1,-1),(-1,1),(1,1)]:
+                # Outline 2px: vẽ chữ màu tối lệch 8 hướng 2px → tạo viền đều quanh chữ
+                p.setPen(QColor(0, 80, 30, 200))
+                for dx, dy in [(-2,0),(2,0),(0,-2),(0,2),(-2,-2),(2,-2),(-2,2),(2,2)]:
                     p.drawText(rect.translated(dx, dy), Qt.AlignmentFlag.AlignCenter, text)
-                # Shadow 90° xuống 3px: đổ bóng xuống dưới tạo chiều sâu
-                p.setPen(QColor(0, 80, 30, 130))
-                p.drawText(rect.translated(0, 3), Qt.AlignmentFlag.AlignCenter, text)
                 # Chữ thật trắng vẽ đè lên cùng — luôn nằm trên cùng
                 p.setPen(QColor("white"))
                 p.drawText(rect, Qt.AlignmentFlag.AlignCenter, text)
@@ -883,7 +880,7 @@ class PageUserProfile(QFrame):
                     stop:1.0 #2B9E61);
                 border-radius: 26px;
                 border: 3px solid #00E676;
-                color: white;
+                color: transparent;
             }
             QPushButton:hover   { background: #3EE28C; }
             QPushButton:pressed { background: #2B9E61; }
@@ -916,4 +913,3 @@ class PageUserProfile(QFrame):
         print("[SAVE] Tuổi:", self.input_age.text())
         print("[SAVE] Chiều cao:", self.input_height.text())
         print("[SAVE] Cân nặng:", self.input_weight.text())
-

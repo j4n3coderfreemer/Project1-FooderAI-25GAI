@@ -415,36 +415,39 @@ FOOD_DATA = {
         ("Bún riêu cua", 450, "Tô bún riêu cua đậm đà với mảng riêu béo bùi, đậu hũ chiên giòn, cà chua thanh mát ăn kèm rau sống tươi.", ["Protein", "Canxi", "Tinh bột", "Chất béo", "Chất xơ", "Vitamin C"], "fooderai_bunrieucua.png"),
         ("Hủ tiếu Nam Vang", 400, "Tô hủ tiếu Nam Vang nước dùng thanh ngọt thơm nức tỏi phi, đầy ắp tôm tươi, thịt băm, trứng cút cùng gan heo bổ dưỡng.", ["Protein", "Chất béo", "Tinh bột", "Sắt", "Vitamin A", "Chất xơ"], "fooderai_hutieunamvang.png"),
         ("Cháo lòng truyền thống", 412, "Tô cháo lòng sánh đặc nấu từ nước xương ngọt thanh, đầy ắp dồi huyết, tim gan thơm nồng hạt tiêu hành lá.", ["Protein", "Sắt", "Tinh bột", "Chất béo", "Vitamin B", "Chất xơ"], "fooderai_chaolong.png"),
-        ("Bánh tráng trộn Sài Gòn", 280, "Món ăn vặt đường phố Sài Gòn đặc trưng với bánh tráng cắt sợi, tôm khô, trứng cút, xoài xanh và sa tế cay nồng.", ["Tinh bột", "Protein", "Chất xơ", "Vitamin C", "Canxi"], "fooderai_banhtrangtron.png"),
+        ("Bánh tráng trộn Sài Gòn", 280, "Món ăn vặt đường phố Sài Gòn đặc trưng với bánh tráng cắt sợi, tôm khô, trứng cút, xoài xanh và sa tế cay nồng.", ["Tinh bột", "Protein", "Chất xơ", "Vitamin C", "Canxi"], "fooderai_banhtrangtronsg.png"),
         ("Cơm hến Huế", 180, "Cơm hến là món đặc sản cung đình Huế với hến xào thơm lừng, cơm nguội, rau sống đa dạng và nước hến ngọt đậm đà.", ["Canxi", "Sắt", "Tinh bột", "Protein", "Chất xơ", "Vitamin B12"], "fooderai_comhenhue.png"),
-        ("Bún mắm miền Tây", 520, "Bún mắm đặc sản miền Tây Nam Bộ với nước lèo từ mắm cá linh đậm đà, thịt heo, tôm cua và rau sống phong phú.", ["Protein", "Tinh bột", "Chất béo", "Sắt", "Vitamin C", "Chất xơ"], "fooderai_bunmam.png"),
-        ("Lẩu cá kèo", 380, "Lẩu cá kèo miền Tây đặc trưng với cá kèo tươi sống, nước lèo chua cay ngọt, rau sống đặc trưng miền sông nước.", ["Protein", "Omega-3", "Vitamin C", "Chất xơ", "Kali", "Sắt"], "fooderai_laucakeo.png"),
-        ("Bánh đúc nộm", 160, "Bánh đúc mát lạnh ăn kèm nộm rau củ giòn giòn, đậu phụ, nước mắm chua ngọt và lạc rang thơm bùi.", ["Tinh bột", "Protein", "Chất xơ", "Canxi", "Vitamin C", "Kali"], "fooderai_banhduc.png"),
-        ("Cơm trắng canh chua cá kho", 420, "Bữa cơm gia đình Việt đậm vị với canh chua thanh mát và cá kho tộ đậm đà mặn mà.", ["Protein", "Tinh bột", "Omega-3", "Vitamin C", "Kali", "Chất xơ"], "fooderai_comtrangcanhchua.png"),
+        ("Bún mắm miền Tây", 520, "Bún mắm đặc sản miền Tây Nam Bộ với nước lèo từ mắm cá linh đậm đà, thịt heo, tôm cua và rau sống phong phú.", ["Protein", "Tinh bột", "Chất béo", "Sắt", "Vitamin C", "Chất xơ"], "fooderai_bunmammientay.png"),
+        ("Cơm cuộn rong biển", 190, "Cơm cuộn rong biển nhiều màu sắc, dễ ăn và phù hợp cho trẻ em lẫn người lớn.", ["Protein", "Canxi", "Vitamin B", "Chất xơ", "I-ốt"], "fooderai_comcuonrongbien.png"),
+        ("Sandwich trứng rau", 240, "Sandwich trứng rau mềm nhẹ, cân bằng dinh dưỡng và phù hợp cho bữa ăn nhanh lành mạnh.", ["Protein", "Chất xơ", "Vitamin B", "Canxi", "Kali"], "fooderai_sandwichtrungrau.png"),
+        ("Cơm thịt viên rau củ", 340, "Cơm thịt viên rau củ cân bằng dinh dưỡng, mềm dễ ăn và phù hợp cho nhiều độ tuổi.", ["Protein", "Tinh bột", "Vitamin A", "Chất xơ", "Kali", "Vitamin B"], "fooderai_comthitvienraucu.png"),
         ("Thịt kho tàu heo trứng", 480, "Món thịt kho tàu truyền thống với thịt ba chỉ mềm tan, trứng thấm vị nước dừa ngọt đậm đà.", ["Protein", "Chất béo", "Tinh bột", "Vitamin B12", "Sắt", "Kẽm"], "fooderai_thitkhotau.png"),
-        ("Rau muống xào tỏi", 85, "Rau muống xào tỏi phi thơm — món ăn quen thuộc của mọi bữa cơm gia đình Việt.", ["Sắt", "Canxi", "Vitamin C", "Chất xơ", "Beta-carotene", "Kali"], "fooderai_raumuong_mon.png"),
-        ("Trứng chiên hành", 180, "Trứng gà chiên vàng ươm với hành lá thơm — món ăn nhanh gọn, bổ dưỡng cho bữa sáng.", ["Protein", "Chất béo", "Vitamin A", "Vitamin D", "Choline", "Kali"], "fooderai_trungchien.png"),
-        ("Canh khổ qua nhồi thịt", 120, "Canh khổ qua nhồi thịt heo băm thanh mát, vị đắng nhẹ thanh nhiệt, đặc trưng bữa cơm miền Nam.", ["Protein", "Vitamin C", "Chất xơ", "Kali", "Sắt", "Canxi"], "fooderai_canhkhoqua.png"),
-        ("Cá kho tộ", 220, "Cá kho tộ đậm đà vị caramel mặn ngọt, thịt cá mềm thấm gia vị, ăn kèm cơm trắng nóng hổi.", ["Protein", "Omega-3", "Natri", "Kali", "Vitamin B12", "Sắt"], "fooderai_cakhoto.png"),
+        ("Rau muống xào tỏi", 85, "Rau muống xào tỏi phi thơm — món ăn quen thuộc của mọi bữa cơm gia đình Việt.", ["Sắt", "Canxi", "Vitamin C", "Chất xơ", "Beta-carotene", "Kali"], "fooderai_raumuongxaotoi.png"),
+        ("Trứng chiên hành", 180, "Trứng gà chiên vàng ươm với hành lá thơm — món ăn nhanh gọn, bổ dưỡng cho bữa sáng.", ["Protein", "Chất béo", "Vitamin A", "Vitamin D", "Choline", "Kali"], "fooderai_trungchienhanh.png"),
+        ("Canh khổ qua nhồi thịt", 120, "Canh khổ qua nhồi thịt heo băm thanh mát, vị đắng nhẹ thanh nhiệt, đặc trưng bữa cơm miền Nam.", ["Protein", "Vitamin C", "Chất xơ", "Kali", "Sắt", "Canxi"], "fooderai_canhkhoquanhoithit.png"),
+        ("Cơm trứng cuộn", 260, "Cơm trứng cuộn mềm thơm với lớp trứng vàng óng, dễ ăn, cân bằng dinh dưỡng và phù hợp cho nhiều độ tuổi.", ["Protein", "Tinh bột", "Vitamin B", "Canxi", "Kali"], "fooderai_comtrungcuon.png"),
         ("Đậu phụ sốt cà chua", 140, "Đậu phụ non mềm mịn sốt cà chua ngọt chua, ăn kèm cơm trắng — món chay thanh đạm dễ làm.", ["Protein", "Canxi", "Lycopene", "Vitamin C", "Sắt", "Magie"], "fooderai_dauphusotcachua.png"),
-        ("Súp gà nấm", 180, "Súp gà nấm nóng hổi sánh mịn, thịt gà xé mềm, nấm hương thơm, bổ dưỡng cho mọi lứa tuổi.", ["Protein", "Chất xơ", "Vitamin B", "Kali", "Kẽm", "Selenium"], "fooderai_supga.png"),
-        ("Cháo trắng trứng muối", 220, "Cháo trắng sánh mịn ăn kèm trứng muối đậm đà — món ăn dưỡng bệnh và hồi phục sức lực.", ["Tinh bột", "Protein", "Natri", "Kali", "Vitamin B12", "Canxi"], "fooderai_chaotrang.png"),
+        ("Súp gà ngô nấm", 165, "Súp gà ngô nấm sánh nhẹ với thịt gà mềm, ngô ngọt tự nhiên và nấm thơm bổ dưỡng dễ ăn.", ["Protein", "Vitamin B", "Chất xơ", "Kali", "Kẽm", "Selenium"], "fooderai_supgangonam.png"),
+        ("Cơm trứng xúc xích", 320, "Cơm trứng xúc xích thơm ngon, dễ ăn với hương vị quen thuộc phù hợp cho trẻ em và nhiều độ tuổi.", ["Protein", "Tinh bột", "Vitamin B", "Canxi", "Kali", "Chất béo"], "fooderai_comtrungxucxich.png"),
         ("Xôi gà xé", 380, "Xôi nếp dẻo thơm ăn kèm gà xé phay mềm, hành phi giòn và nước mắm gừng đặc trưng.", ["Tinh bột", "Protein", "Chất béo", "Vitamin B", "Kali", "Sắt"], "fooderai_xoiga.png"),
-        ("Cơm rang dương châu", 420, "Cơm rang dương châu đầy màu sắc với trứng, tôm, xúc xích, rau củ thơm bơ — món ăn nhanh ngon miệng.", ["Tinh bột", "Protein", "Chất béo", "Vitamin A", "Kali", "Sắt"], "fooderai_comrang.png"),
+        ("Cơm rang dương châu", 420, "Cơm rang dương châu đầy màu sắc với trứng, tôm, xúc xích, rau củ thơm bơ — món ăn nhanh ngon miệng.", ["Tinh bột", "Protein", "Chất béo", "Vitamin A", "Kali", "Sắt"], "fooderai_comrangduongchau.png"),
         ("Sườn xào chua ngọt", 350, "Sườn non xào chua ngọt giòn tan, sốt đỏ bóng đẹp mắt, cân bằng vị chua ngọt mặn hoàn hảo.", ["Protein", "Chất béo", "Vitamin C", "Kali", "Sắt", "Kẽm"], "fooderai_suonxao.png"),
         ("Gà nướng muối ớt", 290, "Gà nướng muối ớt da giòn thơm lừng, thịt mềm ngọt, gia vị sả ớt thấm đều từng thớ thịt.", ["Protein", "Chất béo", "Vitamin B6", "Kali", "Selenium", "Kẽm"], "fooderai_ganuong.png"),
-        ("Hột vịt lộn rau răm", 182, "Hột vịt lộn nóng hổi ăn kèm rau răm thơm cay, muối tiêu — món ăn vặt bổ dưỡng đặc trưng Việt Nam.", ["Protein", "Chất béo", "Canxi", "Sắt", "Vitamin A", "Vitamin B12"], "fooderai_hotviton.png"),
-        ("Canh bí đỏ nấu tôm", 95, "Canh bí đỏ ngọt mát nấu cùng tôm tươi, thanh đạm bổ dưỡng cho bữa cơm gia đình hàng ngày.", ["Beta-carotene", "Protein", "Vitamin C", "Kali", "Canxi", "Chất xơ"], "fooderai_canhbido.png"),
-        ("Mì tôm Hảo Hảo xào khô", 380, "Mì tôm xào khô với trứng, rau củ và gia vị đặc trưng — bữa ăn nhanh gọn đầy đủ dinh dưỡng.", ["Tinh bột", "Protein", "Chất béo", "Natri", "Vitamin B", "Kali"], "fooderai_mitomhaohao.png"),
-        ("Mì tôm nấu trứng hành", 320, "Tô mì tôm nóng hổi với trứng luộc mềm, hành lá xanh tươi — bữa sáng nhanh tiện lợi.", ["Tinh bột", "Protein", "Chất béo", "Natri", "Vitamin B", "Canxi"], "fooderai_mitomnautrung.png"),
-        ("Mì tôm lẩu Thái", 360, "Mì tôm lẩu Thái cay nồng với nước dùng chua cay đặc trưng, rau nấm phong phú.", ["Tinh bột", "Protein", "Natri", "Kali", "Vitamin C", "Chất xơ"], "fooderai_mitomlauthai.png"),
-        ("Mì spaghetti bò bằm cà chua", 480, "Mì spaghetti sốt bò bằm cà chua đậm đà kiểu Ý, thơm lừng hành tỏi và rau thơm.", ["Tinh bột", "Protein", "Lycopene", "Sắt", "Vitamin C", "Kẽm"], "fooderai_spaghettibobam.png"),
-        ("Mì spaghetti carbonara", 520, "Spaghetti carbonara béo ngậy với sốt trứng, pancetta giòn và phô mai Parmesan thơm lừng.", ["Tinh bột", "Protein", "Chất béo", "Canxi", "Vitamin B12", "Selenium"], "fooderai_carbonara.png"),
-        ("Mì udon xào bò", 450, "Sợi udon dày dai xào cùng thịt bò mỏng, rau củ và sốt teriyaki đậm vị Nhật Bản.", ["Tinh bột", "Protein", "Sắt", "Kali", "Vitamin B", "Kẽm"], "fooderai_udonxaobo.png"),
-        ("Mì ramen trứng onsen", 420, "Tô ramen Nhật với nước dùng tonkotsu đậm đà, trứng onsen vàng ươm, chashu mềm tan và nori thơm.", ["Tinh bột", "Protein", "Chất béo", "Natri", "Vitamin B12", "Kali"], "fooderai_ramenonsen.png"),
-        ("Mì trứng xào rau củ", 360, "Mì trứng xào rau củ đa dạng, giòn ngon, ít dầu mỡ — lựa chọn lành mạnh cho bữa ăn nhanh.", ["Tinh bột", "Protein", "Chất xơ", "Vitamin A", "Vitamin C", "Kali"], "fooderai_mitrungxao.png"),
-        ("Bún gạo xào hải sản", 400, "Bún gạo xào hải sản hấp dẫn với tôm mực tươi rói, rau củ giòn và sốt oyster thơm đậm.", ["Tinh bột", "Protein", "Omega-3", "Kali", "Vitamin C", "Sắt"], "fooderai_bungaoxaohasan.png"),
-        ("Mì Ý sốt kem nấm", 490, "Spaghetti sốt kem nấm béo ngậy với nấm hương đông cô, hành tây caramel hóa và kem tươi mịn mà.", ["Tinh bột", "Protein", "Chất béo", "Canxi", "Chất xơ", "Vitamin D"], "fooderai_miysotkemnam.png"),
+        ("Trứng hấp thịt bằm", 210, "Trứng hấp thịt bằm mềm mịn thơm nhẹ, giàu đạm và dễ ăn, phù hợp cho trẻ em lẫn bữa cơm gia đình.", ["Protein", "Chất béo", "Vitamin B12", "Sắt", "Kẽm", "Canxi"], "fooderai_trunghapthitbam.png"),
+        ("Canh bí đỏ", 68, "Canh bí đỏ mềm bùi thanh ngọt tự nhiên, dễ ăn và phù hợp cho bữa cơm gia đình hằng ngày.", ["Beta-carotene", "Vitamin A", "Vitamin C", "Kali", "Chất xơ", "Magie"], "fooderai_canhbido.png"),
+        # --- CẬP NHẬT 5 món giữ nguyên ---
+        ("Mì tôm lẩu Thái", 360, "Mì tôm lẩu Thái cay nồng, nước dùng chua cay đặc trưng, rau nấm phong phú.", ["Tinh bột", "Protein", "Natri", "Kali", "Vitamin C", "Chất xơ"], "fooderai_mitomlauthai.png"),
+        ("Mì spaghetti bò bằm cà chua", 480, "Spaghetti sốt bò bằm cà chua đậm đà, thơm lừng hành tỏi và rau thơm kiểu Ý.",["Tinh bột", "Protein", "Lycopene", "Sắt", "Vitamin C", "Kẽm"], "fooderai_spaghettibolognese.png"),
+        ("Mì udon xào bò", 450, "Udon dày dai xào thịt bò mỏng, rau củ và sốt teriyaki đậm vị Nhật Bản.", ["Tinh bột", "Protein", "Sắt", "Kali", "Vitamin B", "Kẽm"], "fooderai_udonxaobo.png"),
+        ("Bánh flan trứng sữa", 160, "Bánh flan mềm mịn béo ngậy từ trứng và sữa tươi — tráng miệng nhẹ, giàu canxi và đạm.", ["Protein", "Canxi", "Vitamin D", "Vitamin A", "Chất béo", "Vitamin B12"], "fooderai_banhflan.png"),
+        ("Bún gạo xào hải sản", 400, "Bún gạo xào tôm mực tươi rói, rau củ giòn và sốt oyster thơm đậm đà.", ["Tinh bột", "Protein", "Omega-3", "Kali", "Vitamin C", "Sắt"], "fooderai_bungaoxaohaisan.png"),
+
+        # --- CẬP NHẬT 5 món thay mới (thay thế mì ăn liền và carbonara, ramen, kem nấm) ---
+        ("Cháo yến mạch trứng gà", 280, "Cháo yến mạch sánh mịn, trứng gà luộc mềm — bữa sáng dinh dưỡng cao, dễ tiêu.", ["Chất xơ", "Protein", "Beta-glucan", "Vitamin B", "Canxi", "Magie"], "fooderai_chaoyenmachtrungga.png"),
+        ("Salad ức gà rau củ", 220, "Ức gà hấp xé mềm, rau củ tươi giòn, sốt chanh dầu ô liu — đạm cao, ít calo.", ["Protein", "Chất xơ", "Vitamin C", "Kali", "Sắt", "Vitamin A"], "fooderai_saladga.png"),
+        ("Xôi đậu phộng", 320, "Xôi nếp dẻo thơm rắc đậu phộng rang giòn béo — bữa sáng no lâu, giàu tinh bột và đạm thực vật.", ["Tinh bột", "Protein", "Magie", "Kali", "Vitamin B1", "Chất béo lành mạnh"], "fooderai_xoidauphong.png"),
+        ("Súp bí đỏ kem tươi", 165, "Súp bí đỏ sánh mịn, béo nhẹ từ kem tươi — vitamin A dồi dào, phù hợp mọi lứa tuổi.", ["Beta-carotene", "Vitamin A", "Canxi", "Kali", "Chất xơ", "Vitamin C"], "fooderai_supbidokemtuoi.png"),
+        ("Khoai lang nướng phô mai", 210, "Khoai lang nướng vàng rắc phô mai tan chảy — bữa phụ ngọt tự nhiên, giàu beta-carotene.", ["Beta-carotene", "Canxi", "Chất xơ", "Kali", "Vitamin C", "Protein"], "fooderai_khoailangphomai.png"),
     ],
 
     # --- Tab 2: Thực Phẩm (ingredient) — 50 món ---
@@ -464,7 +467,6 @@ FOOD_DATA = {
         ("Khoai tây", 77, "Khoai tây nguồn kali và vitamin B6 tốt, tinh bột dễ tiêu.", ["Tinh bột", "Kali", "Vitamin B6", "Vitamin C", "Chất xơ"], "fooderai_khoaitay.png"),
         ("Bắp ngô", 96, "Bắp ngô cung cấp tinh bột, chất xơ, và các vitamin nhóm B.", ["Tinh bột", "Chất xơ", "Vitamin B", "Magie", "Kali"], "fooderai_bapngo.png"),
         ("Yến mạch", 389, "Yến mạch giàu beta-glucan — chất xơ hòa tan giúp kiểm soát đường huyết và cholesterol hiệu quả.", ["Chất xơ", "Protein", "Magie", "Phốt pho", "Vitamin B1", "Kẽm"], "fooderai_yenmach.png"),
-        ("Quinoa", 368, "Hạt quinoa siêu thực phẩm chứa đủ 9 axit amin thiết yếu, giàu chất xơ và khoáng chất.", ["Protein hoàn chỉnh", "Chất xơ", "Magie", "Sắt", "Kẽm", "Mangan"], "fooderai_quinoa.png"),
         ("Đậu xanh", 347, "Đậu xanh giàu protein thực vật, chất xơ và folate, tốt cho tim mạch và hệ tiêu hóa.", ["Protein", "Chất xơ", "Folate", "Kali", "Magie", "Sắt"], "fooderai_dauxanh.png"),
         ("Hạnh nhân", 579, "Hạnh nhân giàu vitamin E, magie và chất béo lành mạnh, tốt cho tim mạch và não bộ.", ["Vitamin E", "Magie", "Chất béo lành mạnh", "Protein", "Canxi", "Chất xơ"], "fooderai_hanhnhan.png"),
         ("Rau muống", 19, "Rau muống là loại rau quen thuộc nhất Việt Nam, giàu sắt và canxi.", ["Sắt", "Canxi", "Vitamin C", "Beta-carotene", "Chất xơ"], "fooderai_raumuong.png"),
@@ -472,7 +474,7 @@ FOOD_DATA = {
         ("Cà chua", 18, "Cà chua giàu lycopene — chất chống oxy hóa mạnh, tốt cho tim mạch và phòng ung thư.", ["Lycopene", "Vitamin C", "Kali", "Vitamin A", "Chất xơ"], "fooderai_cachua.png"),
         ("Cà rốt", 41, "Cà rốt nguồn beta-carotene dồi dào, tốt cho mắt và hệ miễn dịch.", ["Beta-carotene", "Vitamin A", "Chất xơ", "Kali", "Vitamin K"], "fooderai_carot.png"),
         ("Hành tây", 40, "Hành tây chứa quercetin — flavonoid mạnh chống viêm, tốt cho tim mạch và hệ miễn dịch.", ["Quercetin", "Vitamin C", "Chất xơ", "Kali", "Folate"], "fooderai_hanhtay.png"),
-        ("Tỏi", 149, "Tỏi chứa allicin có tác dụng kháng khuẩn, kháng virus, hỗ trợ tim mạch và tăng đề kháng.", ["Allicin", "Vitamin C", "Vitamin B6", "Mangan", "Selenium"], "fooderai_toi.png"),
+        ("Tỏi", 149, "Tỏi chứa allicin có tác dụng kháng khuẩn, kháng virus, hỗ trợ tim mạch và tăng đề kháng.", ["Allicin", "Vitamin C", "Vitamin B6", "Mangan", "Selenium"], "fooderai_garlic.png"),
         ("Gừng", 80, "Gừng chứa gingerol có tác dụng chống viêm, giảm buồn nôn và hỗ trợ tiêu hóa.", ["Gingerol", "Magie", "Vitamin B6", "Kali", "Vitamin C"], "fooderai_gung.png"),
         ("Sả", 99, "Sả chứa citral có tính kháng khuẩn, kháng nấm, hỗ trợ tiêu hóa và giải độc cơ thể.", ["Citral", "Vitamin A", "Kali", "Magie", "Vitamin C"], "fooderai_sa.png"),
         ("Ớt chuông", 31, "Ớt chuông đỏ chứa vitamin C gấp 3 lần cam, giàu beta-carotene và chất chống oxy hóa.", ["Vitamin C", "Beta-carotene", "Vitamin B6", "Kali", "Chất xơ"], "fooderai_otchuong.png"),
@@ -481,7 +483,7 @@ FOOD_DATA = {
         ("Khổ qua", 17, "Khổ qua giàu vitamin C, chứa charantin giúp kiểm soát đường huyết, tốt cho người tiểu đường.", ["Vitamin C", "Charantin", "Chất xơ", "Kali", "Folate"], "fooderai_khoqua.png"),
         ("Bí đỏ", 26, "Bí đỏ chứa beta-carotene dồi dào, vitamin C và kali, thấp calo và tốt cho mắt.", ["Beta-carotene", "Vitamin C", "Kali", "Chất xơ", "Vitamin A"], "fooderai_bido.png"),
         ("Đậu bắp", 33, "Đậu bắp giàu chất nhầy có lợi cho tiêu hóa, chứa folate và vitamin K quan trọng.", ["Chất xơ", "Folate", "Vitamin K", "Vitamin C", "Magie"], "fooderai_daubap.png"),
-        ("Rau húng quế", 22, "Rau húng quế thơm nức với eugenol kháng khuẩn, giàu vitamin K và chất chống oxy hóa.", ["Vitamin K", "Eugenol", "Beta-carotene", "Magie", "Sắt"], "fooderai_rauhung.png"),
+        ("Quả mít", 95, "Quả mít nhiệt đới thơm ngọt giàu vitamin C và chất xơ, vừa là trái cây vừa là nguyên liệu nấu chay thay thịt cực phổ biến với giới GenZ.", ["Vitamin C", "Chất xơ", "Kali", "Vitamin B6", "Magie", "Đồng"], "fooderai_mit.png"),
         ("Cải thìa", 13, "Cải thìa giàu vitamin C, K và calcium, ít calo, tốt cho xương và hệ miễn dịch.", ["Vitamin C", "Vitamin K", "Canxi", "Chất xơ", "Beta-carotene"], "fooderai_caithia.png"),
         ("Giá đỗ", 30, "Giá đỗ mọc từ đậu xanh nảy mầm, giàu vitamin C, enzyme tiêu hóa và chất chống oxy hóa.", ["Vitamin C", "Protein", "Chất xơ", "Folate", "Vitamin K"], "fooderai_giado.png"),
         ("Bông cải xanh", 34, "Siêu thực phẩm giàu vitamin C, K, chất xơ và sulforaphane chống ung thư.", ["Vitamin C", "Vitamin K", "Chất xơ", "Folate", "Sắt"], "fooderai_bongcaixanh.png"),
@@ -490,15 +492,27 @@ FOOD_DATA = {
         ("Atisô", 47, "Atisô chứa cynarin hỗ trợ gan mật, giàu chất xơ prebiotics tốt cho vi khuẩn đường ruột.", ["Chất xơ", "Cynarin", "Folate", "Vitamin C", "Magie"], "fooderai_atiso.png"),
         ("Cần tây", 16, "Cần tây giàu apigenin chống viêm, tốt cho huyết áp, thanh nhiệt và lợi tiểu.", ["Apigenin", "Vitamin K", "Kali", "Vitamin C", "Folate"], "fooderai_cantay.png"),
         ("Dưa leo", 16, "Dưa leo 95% là nước, giàu vitamin K và kali, giúp hydrat hóa cơ thể và mát gan.", ["Nước", "Vitamin K", "Kali", "Vitamin C", "Magie"], "fooderai_dualeo.png"),
-        ("Nấm đông cô", 34, "Nấm đông cô chứa lentinan tăng cường miễn dịch, giàu vitamin D và B khi phơi nắng.", ["Lentinan", "Vitamin D", "Vitamin B", "Kali", "Selenium"], "fooderai_namdonco.png"),
         ("Chuối tiêu", 89, "Chuối tiêu giàu kali, vitamin B6 và serotonin tự nhiên giúp cải thiện tâm trạng.", ["Kali", "Vitamin B6", "Vitamin C", "Magie", "Chất xơ"], "fooderai_chuoi.png"),
         ("Xoài chín", 60, "Xoài chín ngọt thơm giàu beta-carotene, vitamin C và enzyme amylase hỗ trợ tiêu hóa.", ["Beta-carotene", "Vitamin C", "Chất xơ", "Kali", "Folate"], "fooderai_xoai.png"),
         ("Thanh long đỏ", 50, "Thanh long ruột đỏ giàu lycopene chống oxy hóa, vitamin C và probiotics tự nhiên.", ["Lycopene", "Vitamin C", "Chất xơ", "Magie", "Sắt"], "fooderai_thanhlong.png"),
-        ("Dừa tươi", 354, "Dừa tươi chứa MCT — chất béo chuỗi trung bình dễ chuyển hóa thành năng lượng tức thì.", ["MCT", "Kali", "Magie", "Phốt pho", "Chất xơ"], "fooderai_dua.png"),
+        ("Dừa tươi", 354, "Dừa tươi chứa MCT — chất béo chuỗi trung bình dễ chuyển hóa thành năng lượng tức thì.", ["MCT", "Kali", "Magie", "Phốt pho", "Chất xơ"], "fooderai_duatuoi.png"),
         ("Dâu tây", 32, "Dâu tây giàu vitamin C, anthocyanin và ellagic acid chống ung thư, tốt cho da.", ["Vitamin C", "Anthocyanin", "Chất xơ", "Folate", "Kali"], "fooderai_dautay.png"),
         ("Táo xanh", 52, "Táo xanh giàu pectin — chất xơ hòa tan tốt cho ruột, quercetin và vitamin C.", ["Chất xơ", "Quercetin", "Vitamin C", "Kali", "Vitamin K"], "fooderai_taoxanh.png"),
         ("Việt quất", 57, "Việt quất giàu anthocyanin nhất trong các loại quả, bảo vệ não và cải thiện trí nhớ.", ["Anthocyanin", "Vitamin C", "Vitamin K", "Mangan", "Chất xơ"], "fooderai_vietquat.png"),
         ("Chanh vàng", 29, "Chanh vàng giàu vitamin C, limonene và flavonoid chống viêm, hỗ trợ miễn dịch và tiêu hóa.", ["Vitamin C", "Limonene", "Axit citric", "Kali", "Folate"], "fooderai_chanhvang.png"),
+        ("Cải ngọt", 20, "Cải ngọt chứa nhiều vitamin A, C và chất xơ, phù hợp cho món luộc, xào hoặc nấu canh nhẹ.", ["Vitamin A", "Vitamin C", "Chất xơ", "Canxi", "Kali"], "fooderai_caingot.png"),
+        ("Rau cải xanh", 27, "Rau cải xanh có vị thanh nhẹ, giàu vitamin K và chất chống oxy hóa tốt cho sức khỏe.", ["Vitamin K", "Vitamin C", "Chất xơ", "Folate", "Canxi"], "fooderai_caixanh.png"),
+        ("Su su", 19, "Su su ít calo, giàu nước và chất xơ, phù hợp cho món luộc hoặc xào thanh đạm.", ["Chất xơ", "Vitamin C", "Kali", "Folate", "Magie"], "fooderai_susu.png"),
+        ("Đậu hũ", 76, "Đậu hũ mềm giàu đạm thực vật và canxi, phù hợp cho nhiều món chay và món gia đình.", ["Protein", "Canxi", "Sắt", "Magie", "Isoflavone"], "fooderai_dauhu.png"),
+        ("Cam", 47, "Cam tươi chứa lượng vitamin C dồi dào, hỗ trợ miễn dịch và bổ sung nước tự nhiên cho cơ thể.", ["Vitamin C", "Chất xơ", "Kali", "Folate", "Flavonoid"], "fooderai_cam.png"),
+        ("Sữa chua", 59, "Sữa chua cung cấp lợi khuẩn probiotics cùng canxi và protein, hỗ trợ tiêu hóa và sức khỏe đường ruột.", ["Probiotics", "Canxi", "Protein", "Vitamin B12", "Kali"], "fooderai_suachua.png"),
+        ("Đậu que", 31, "Đậu que xanh giòn giàu chất xơ và vitamin K, phù hợp cho món luộc, xào hoặc hấp nhẹ.", ["Chất xơ", "Vitamin K", "Vitamin C", "Folate", "Kali"], "fooderai_dauque.png"),
+        ("Dưa hấu", 30, "Dưa hấu mọng nước giúp giải nhiệt cơ thể, bổ sung vitamin C và nước tự nhiên ngày nóng.", ["Vitamin C", "Nước", "Lycopene", "Kali", "Vitamin A"], "fooderai_duahau.png"),
+        ("Hành lá", 32, "Hành lá tươi giàu vitamin K và C, thường dùng làm gia vị trang trí và tăng hương vị cho các món ăn Việt.", ["Vitamin K", "Vitamin C", "Chất xơ", "Kali", "Folate"], "fooderai_hanhla.png"),
+        ("Nước mắm", 35, "Nước mắm truyền thống Việt Nam giàu đạm thủy phân và khoáng chất, gia vị không thể thiếu trong ẩm thực Việt.", ["Protein", "Natri", "Kali", "Magie", "Vitamin B12"], "fooderai_nuocmam.png"),
+        ("Bánh phở tươi", 109, "Bánh phở tươi làm từ gạo, cung cấp tinh bột năng lượng nhanh, nguyên liệu chính của món phở truyền thống.", ["Tinh bột", "Protein", "Canxi", "Phốt pho", "Natri"], "fooderai_banhpho.png"),
+        ("Phô mai", 402, "Phô mai béo ngậy giàu canxi và protein, nguyên liệu phổ biến trong pizza, burger, bánh mì nướng và các món ăn hiện đại.", ["Canxi", "Protein", "Chất béo", "Vitamin B12", "Vitamin A", "Phốt pho"], "fooderai_phomai.png"),
+        ("Matcha bột", 324, "Bột trà xanh Nhật nguyên chất giàu L-theanine và catechin, nguyên liệu pha trà sữa, làm bánh và smoothie được giới GenZ ưa chuộng.", ["L-theanine", "Catechin", "Vitamin K", "Caffeine", "Chất chống oxy hóa", "Magie"], "fooderai_matchabot.png"),
     ],
 
     # --- Tab 3: Thức Uống (drink) — 60 món ---
@@ -510,7 +524,7 @@ FOOD_DATA = {
         ("Cappuccino", 110, "Tách Cappuccino chuẩn Ý hòa quyện espresso đậm đà, sữa tươi nóng và lớp bọt mịn màng.", ["Canxi", "Protein", "Carbohydrate", "Chất béo", "Caffeine", "Chất chống oxy hóa"], "fooderai_cappuccino.png"),
         ("Latte", 120, "Ly Latte mượt mà với espresso và lớp bọt sữa mịn màng tạo hình nghệ thuật.", ["Caffeine", "Canxi", "Carbohydrate", "Chất béo", "Protein", "Vitamin D"], "fooderai_latte.png"),
         ("Cold brew", 5, "Cold brew ngâm lạnh 12-24 giờ cho vị cà phê mượt mà ít đắng, caffeine cao nhưng ít axit hơn.", ["Caffeine", "Chất chống oxy hóa", "Magie", "Kali", "Crom"], "fooderai_coldbrew.png"),
-        ("Cà phê trứng Hà Nội", 180, "Cà phê trứng Hà Nội độc đáo với lớp kem trứng đánh bông béo ngậy phủ lên cà phê đen đậm đà.", ["Caffeine", "Protein", "Chất béo", "Canxi", "Vitamin D"], "fooderai_caphetrung.png"),
+        ("Cà phê trứng Hà Nội", 180, "Cà phê trứng Hà Nội độc đáo với lớp kem trứng đánh bông béo ngậy phủ lên cà phê đen đậm đà.", ["Caffeine", "Protein", "Chất béo", "Canxi", "Vitamin D"], "fooderai_caphetrunghn.png"),
         ("Bạc xỉu", 120, "Bạc xỉu — cà phê ít đắng nhiều sữa, thức uống đặc trưng của người Sài Gòn.", ["Caffeine", "Canxi", "Đường", "Chất béo", "Protein"], "fooderai_bacxiu.png"),
         ("Cà phê dừa", 150, "Cà phê kết hợp nước cốt dừa béo ngậy — đặc sản nổi tiếng Hội An và Đà Nẵng.", ["Caffeine", "Chất béo", "Canxi", "Magie", "Kali"], "fooderai_caphedua.png"),
         ("Mocha", 160, "Mocha hòa quyện giữa espresso, sữa và sốt chocolate — thức uống ngọt ngào đầy hương vị.", ["Caffeine", "Canxi", "Carbohydrate", "Chất béo", "Magie", "Sắt"], "fooderai_mocha.png"),
@@ -525,38 +539,29 @@ FOOD_DATA = {
         ("Trà gừng mật ong", 60, "Trà gừng mật ong ấm nóng với gingerol kháng viêm và mật ong kháng khuẩn tự nhiên.", ["Gingerol", "Enzyme mật ong", "Vitamin C", "Magie", "Kali"], "fooderai_tragung.png"),
         ("Trà ô long đá", 20, "Trà ô long bán lên men với polyphenol phong phú, hỗ trợ giảm cân và kiểm soát đường huyết.", ["Polyphenol", "Caffeine", "Theanine", "Fluoride", "Kali"], "fooderai_traolongda.png"),
         ("Trà đào cam sả", 120, "Trà đào cam sả sảng khoái với vị chua ngọt từ đào, cam tươi và hương sả thơm mát.", ["Vitamin C", "Kali", "Chất chống oxy hóa", "Citral", "Đường tự nhiên"], "fooderai_tradaocamsa.png"),
-        ("Kombucha", 30, "Kombucha — trà lên men chứa probiotics sống, enzyme và axit hữu cơ tốt cho đường ruột.", ["Probiotics", "Enzyme", "Vitamin B", "Axit hữu cơ", "Chất chống oxy hóa"], "fooderai_kombucha.png"),
-        ("Trà lài đá", 10, "Trà lài ướp hoa nhài tươi thanh thoát, giàu polyphenol và thư giãn tinh thần.", ["Polyphenol", "Caffeine", "Theanine", "Chất chống oxy hóa", "Magie"], "fooderai_tralai.png"),
         ("Boba matcha", 280, "Boba matcha với trân châu đen dai ngon, matcha Nhật xanh thơm và sữa tươi béo ngậy.", ["Caffeine", "L-theanine", "Canxi", "Carbohydrate", "Protein", "Vitamin K"], "fooderai_bobamatcha.png"),
-        ("Trà sữa taro", 320, "Trà sữa taro tím đẹp mắt với vị khoai môn bùi béo, ngọt thanh và thơm đặc trưng.", ["Carbohydrate", "Canxi", "Protein", "Kali", "Chất xơ"], "fooderai_trasuataro.png"),
         ("Nước ép cam tươi", 45, "Nước ép cam tươi nguyên chất giàu vitamin C, folate và chất chống oxy hóa.", ["Vitamin C", "Folate", "Kali", "Hesperidin", "Đường tự nhiên"], "fooderai_nuoepcam.png"),
         ("Nước ép dưa hấu", 30, "Nước ép dưa hấu mát lạnh, giải nhiệt với lycopene và vitamin C.", ["Lycopene", "Vitamin C", "Kali", "Nước", "Đường tự nhiên"], "fooderai_nuocepduahau.png"),
-        ("Sinh tố bơ sữa", 280, "Sinh tố bơ sữa béo ngậy giàu chất béo lành mạnh, vitamin E và kali.", ["Chất béo lành mạnh", "Kali", "Vitamin E", "Canxi", "Magie"], "fooderai_sinhtocbo.png"),
+        ("Sinh tố bơ sữa", 280, "Sinh tố bơ sữa béo ngậy giàu chất béo lành mạnh, vitamin E và kali.", ["Chất béo lành mạnh", "Kali", "Vitamin E", "Canxi", "Magie"], "fooderai_sinhtocbosua.png"),
         ("Sinh tố xoài", 160, "Sinh tố xoài ngọt thơm giàu beta-carotene, vitamin C và enzyme tiêu hóa amylase.", ["Beta-carotene", "Vitamin C", "Enzyme amylase", "Kali", "Chất xơ"], "fooderai_sinhtocxoai.png"),
         ("Sinh tố dâu tây", 140, "Sinh tố dâu tây đỏ tươi giàu anthocyanin, vitamin C và ellagic acid.", ["Anthocyanin", "Vitamin C", "Folate", "Kali", "Canxi"], "fooderai_sinhtodautay.png"),
-        ("Nước ép cà rốt táo", 85, "Nước ép cà rốt táo giàu beta-carotene, vitamin C và quercetin tốt cho tim mạch.", ["Beta-carotene", "Vitamin C", "Quercetin", "Kali", "Chất xơ"], "fooderai_nuoepcArottao.png"),
-        ("Nước ép cần tây", 16, "Nước ép cần tây giải độc, lợi tiểu, giàu apigenin và chứa nhiều khoáng chất.", ["Apigenin", "Kali", "Vitamin K", "Vitamin C", "Natri"], "fooderai_nuoepcantay.png"),
         ("Nước ép dứa", 50, "Nước ép dứa chứa bromelain enzyme tiêu hóa đặc biệt, giàu vitamin C và mangan.", ["Bromelain", "Vitamin C", "Mangan", "Kali", "Đồng"], "fooderai_nuocepdua.png"),
-        ("Nước ép lựu", 84, "Nước ép lựu đỏ đậm giàu punicalagins và anthocyanin — chất chống oxy hóa mạnh nhất.", ["Punicalagins", "Anthocyanin", "Vitamin C", "Kali", "Folate"], "fooderai_nuoceplyy.png"),
+        ("Nước ép lựu", 84, "Nước ép lựu đỏ đậm giàu punicalagins và anthocyanin — chất chống oxy hóa mạnh nhất.", ["Punicalagins", "Anthocyanin", "Vitamin C", "Kali", "Folate"], "fooderai_nuocepluu.png"),
         ("Sinh tố việt quất", 120, "Sinh tố việt quất giàu anthocyanin bảo vệ não, cải thiện trí nhớ và thị lực.", ["Anthocyanin", "Vitamin C", "Vitamin K", "Mangan", "Chất xơ"], "fooderai_sinhtocvietquat.png"),
         ("Nước ép táo xanh", 48, "Nước ép táo xanh thanh mát giàu pectin, quercetin và vitamin C.", ["Chất xơ", "Quercetin", "Vitamin C", "Kali", "Vitamin K"], "fooderai_nuoceptaoxanh.png"),
         ("Sinh tố chuối sữa", 180, "Sinh tố chuối sữa béo ngậy giàu kali và năng lượng, lý tưởng sau tập luyện.", ["Kali", "Canxi", "Protein", "Vitamin B6", "Magie"], "fooderai_sinhtochuoisua.png"),
-        ("Nước ép dưa leo", 16, "Nước ép dưa leo mát lạnh hydrat hóa cơ thể, giàu vitamin K và lợi tiểu.", ["Nước", "Vitamin K", "Kali", "Vitamin C", "Magie"], "fooderai_nuoepdualeo.png"),
-        ("Sinh tố thanh long", 130, "Sinh tố thanh long đỏ giàu lycopene, betacyanin và vitamin C.", ["Lycopene", "Betacyanin", "Vitamin C", "Magie", "Sắt"], "fooderai_sinhtocthanhlong.png"),
-        ("Nước ép gừng chanh", 30, "Nước ép gừng chanh shot nóng kích thích miễn dịch, giảm viêm và detox cơ thể.", ["Gingerol", "Vitamin C", "Axit citric", "Magie", "Kali"], "fooderai_nuoepgungchanh.png"),
+        ("Nước ép dưa leo", 16, "Nước ép dưa leo mát lạnh hydrat hóa cơ thể, giàu vitamin K và lợi tiểu.", ["Nước", "Vitamin K", "Kali", "Vitamin C", "Magie"], "fooderai_nuocepdualeo.png"),
+        ("Sinh tố thanh long", 130, "Sinh tố thanh long đỏ giàu lycopene, betacyanin và vitamin C.", ["Lycopene", "Betacyanin", "Vitamin C", "Magie", "Sắt"], "fooderai_sinhtothanhlong.png"),
+        ("Nước ép gừng chanh", 30, "Nước ép gừng chanh shot nóng kích thích miễn dịch, giảm viêm và detox cơ thể.", ["Gingerol", "Vitamin C", "Axit citric", "Magie", "Kali"], "fooderai_nuocepgungchanh.png"),
         ("Smoothie rau củ", 85, "Smoothie rau củ xanh tổng hợp giàu chất xơ, enzyme và phytonutrients.", ["Chất xơ", "Vitamin K", "Sắt", "Folate", "Chất chống oxy hóa"], "fooderai_smoothieraucu.png"),
-        ("Nước ép cải xanh", 35, "Nước ép cải xanh detox giàu vitamin K, sulforaphane và chất chống ung thư.", ["Vitamin K", "Sulforaphane", "Vitamin C", "Folate", "Canxi"], "fooderai_nuoepcaixanh.png"),
-        ("Sinh tố sữa chua dâu", 160, "Sinh tố sữa chua dâu giàu probiotics, vitamin C và canxi tốt cho đường ruột.", ["Probiotics", "Canxi", "Vitamin C", "Protein", "Anthocyanin"], "fooderai_sinhtocsuachuadau.png"),
-        ("Nước ép lê gừng", 55, "Nước ép lê gừng nhẹ nhàng giàu chất xơ, quercetin và gingerol chống viêm.", ["Chất xơ", "Quercetin", "Gingerol", "Vitamin C", "Kali"], "fooderai_nuoeplegung.png"),
+        ("Sinh tố sữa chua dâu", 160, "Sinh tố sữa chua dâu giàu probiotics, vitamin C và canxi tốt cho đường ruột.", ["Probiotics", "Canxi", "Vitamin C", "Protein", "Anthocyanin"], "fooderai_sinhtosuachuadau.png"),
         ("Nước detox chanh dưa leo", 10, "Nước detox chanh dưa leo thanh mát, lợi tiểu và hỗ trợ giải độc cơ thể.", ["Vitamin C", "Nước", "Kali", "Magie", "Chất chống oxy hóa"], "fooderai_detoxchanhdualeo.png"),
         ("Nước mía", 73, "Nước mía tươi ngọt mát giàu đường tự nhiên sucrose, vitamin B và khoáng chất.", ["Sucrose", "Vitamin B", "Sắt", "Canxi", "Kali"], "fooderai_nuocmia.png"),
+        ("Sữa đậu nành", 54, "Sữa đậu nành thơm béo giàu đạm thực vật và canxi, phù hợp cho bữa sáng hoặc ăn nhẹ.", ["Protein", "Canxi", "Isoflavone", "Vitamin B", "Kali"], "fooderai_suadaunanh.png"),
         ("Nước dừa tươi", 19, "Nước dừa tươi điện giải tự nhiên giàu kali, mangan và cytokinin chống lão hóa.", ["Điện giải", "Kali", "Mangan", "Cytokinin", "Vitamin C"], "fooderai_nuocduatuoi.png"),
         ("Rau má đá", 15, "Rau má đá thanh nhiệt giải độc, chứa asiaticoside tốt cho não và chữa lành vết thương.", ["Asiaticoside", "Vitamin C", "Chất chống oxy hóa", "Kali", "Sắt"], "fooderai_raumada.png"),
-        ("Nước chanh muối", 12, "Nước chanh muối cân bằng điện giải, kích thích tiêu hóa và thanh nhiệt.", ["Vitamin C", "Natri", "Kali", "Axit citric", "Magie"], "fooderai_nuochanhmuoi.png"),
-        ("Sâm lạnh", 45, "Sâm lạnh bổ khí, tăng cường sức đề kháng và cải thiện tuần hoàn máu.", ["Ginsenoside", "Vitamin B", "Magie", "Kali", "Chất chống oxy hóa"], "fooderai_samlanh.png"),
-        ("Soda sữa muối", 95, "Soda sữa muối thức uống trendy với sự kết hợp độc đáo giữa sữa béo, muối và soda sủi bọt.", ["Canxi", "Natri", "Carbohydrate", "Protein", "Chất béo"], "fooderai_sodasuamuoi.png"),
-        ("Chè đậu xanh đá", 180, "Chè đậu xanh mát lạnh giàu protein thực vật, chất xơ và folate.", ["Protein", "Chất xơ", "Folate", "Kali", "Magie"], "fooderai_chedauxanh.png"),
-        ("Lemonade bạc hà", 60, "Lemonade bạc hà sảng khoái với vị chua chanh, ngọt nhẹ và menthol bạc hà mát lạnh.", ["Vitamin C", "Menthol", "Kali", "Chất chống oxy hóa", "Đường tự nhiên"], "fooderai_lemonadebache.png"),
+        ("Nước chanh muối", 12, "Nước chanh muối cân bằng điện giải, kích thích tiêu hóa và thanh nhiệt.", ["Vitamin C", "Natri", "Kali", "Axit citric", "Magie"], "fooderai_nuocchanhmuoi.png"),
+        ("Lemonade bạc hà", 60, "Lemonade bạc hà sảng khoái với vị chua chanh, ngọt nhẹ và menthol bạc hà mát lạnh.", ["Vitamin C", "Menthol", "Kali", "Chất chống oxy hóa", "Đường tự nhiên"], "fooderai_lemonadebacha.png"),
         ("Mojito không cồn", 70, "Mojito không cồn sảng khoái với nước cốt chanh, bạc hà tươi, đường và soda.", ["Vitamin C", "Menthol", "Chất chống oxy hóa", "Kali", "Magie"], "fooderai_mojito.png"),
         ("Soda vải", 120, "Soda vải ngọt thơm từ vải thiều tươi với hương vị đặc trưng ngọt thanh.", ["Vitamin C", "Vitamin B6", "Kali", "Đồng", "Đường tự nhiên"], "fooderai_sodavai.png"),
         ("Sữa hạnh nhân", 40, "Sữa hạnh nhân không lactose giàu vitamin E, canxi tăng cường và axit béo omega-3.", ["Vitamin E", "Canxi", "Vitamin D", "Omega-3", "Magie"], "fooderai_suahanhnhan.png"),
@@ -878,3 +883,30 @@ class PageFoodAlmanac(QFrame):
           # Nạp dữ liệu tương ứng
           self.current_tab = index
           self._load_tab_data(tab_keys[index])
+
+# ── Helper: kiểm tra file ảnh món ăn ─────────────────────────────────────────
+# food_image_map dùng riêng — chỉ kiểm tra ảnh (không có video như gym)
+# Dùng `os` có sẵn từ dòng đầu file, không import thêm
+
+FILE_FOUND     = "✓ Có file"
+FILE_NOT_FOUND = "✗ Không tìm thấy file"
+
+def check_image(img_path: str) -> str:
+    """
+    Kiểm tra 1 đường dẫn ảnh món ăn có tồn tại không.
+
+    Tham số:
+        img_path : đường dẫn tuyệt đối hoặc tương đối tới file ảnh
+
+    Trả về:
+        "✓ Có file"           — file tồn tại, có thể QPixmap(img_path) ngay
+        "✗ Không tìm thấy file" — file chưa có, hiện placeholder thay vì crash
+
+    Dùng trong page_almanac.py (_load_tab_data):
+        _st = check_image(found_path)
+        if _st == FILE_FOUND:
+            pix = QPixmap(found_path)
+        else:
+            print(f"{_st}: {img_file}")   # in rõ tên file thiếu
+    """
+    return FILE_FOUND if os.path.exists(img_path) else FILE_NOT_FOUND
